@@ -13,9 +13,7 @@
 <br/>
 
 <a href="https://lakshitss.vercel.app/"><img src="https://img.shields.io/badge/portfolio-111?style=for-the-badge&logo=vercel&logoColor=fff" /></a>
-<a href="https://www.linkedin.com/in/lakshitsinghsaini/"><img src="https://img.shields.io/badge/linkedin-111?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
 <a href="https://x.com/Lakshits27"><img src="https://img.shields.io/badge/x-111?style=for-the-badge&logo=x&logoColor=fff" /></a>
-<a href="https://www.instagram.com/lakshitsinghsaini/"><img src="https://img.shields.io/badge/instagram-111?style=for-the-badge&logo=instagram&logoColor=fff" /></a>
 <a href="mailto:lakshitsinghsaini@gmail.com"><img src="https://img.shields.io/badge/email-111?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
 
 </div>

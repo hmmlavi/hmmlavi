@@ -91,12 +91,12 @@ const lakshit = {
 <table width="92%">
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/hmmlavi/PROJECT_1">
+<a href="(https://github.com/hmmlavi/SaBuddy)">
 <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=PROJECT_1&bg_color=0d0d0d&title_color=ffffff&icon_color=8B5CF6&text_color=6b6b6b&border_color=1a1a1a" alt="Project 1"/>
 </a>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/hmmlavi/PROJECT_2">
+<a href="https://github.com/hmmlavi/Veylo">
 <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=PROJECT_2&bg_color=0d0d0d&title_color=ffffff&icon_color=8B5CF6&text_color=6b6b6b&border_color=1a1a1a" alt="Project 2"/>
 </a>
 </td>

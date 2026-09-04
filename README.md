@@ -2,13 +2,9 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/AI_SOFTWARE_ENGINEER-000?style=for-the-badge&logoColor=fff" />
 
-# Lakshit
+# Howdy, I'm Lakshit 👋
 
 *I don't just write code — I build software that thinks.*
 <br/>

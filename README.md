@@ -36,7 +36,7 @@ I build **real products** — full stack applications with **AI baked into them*
 Not just wrappers. Not just prompts. **Actual software that solves problems.**
 
 - 🤖 &nbsp; AI-powered habit tracking & personal management
-- ⚡ &nbsp; Full stack apps from frontend to deployment
+- ⚡ &nbsp; Full stack & mobile apps from concept to deployment
 - 🎯 &nbsp; Clean architecture & great user experience
 - 🚀 &nbsp; Ship fast, iterate faster
 
@@ -59,28 +59,28 @@ Not just wrappers. Not just prompts. **Actual software that solves problems.**
 
 <table>
 <tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=py" width="40"/><br/><b>Python</b></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br/><b>TypeScript</b></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/><b>JavaScript</b></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=kotlin" width="40"/><br/><b>Kotlin</b></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=py" width="40"/><br/><b>Python</b></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/><b>C++</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/><b>React</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/><b>Next.js</b></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/><b>HTML</b></td>
 </tr>
 <tr>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/><b>CSS</b></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/><b>React</b></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/><b>Next.js</b></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/><b>Tailwind</b></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/><b>Node.js</b></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/><b>Express</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/><b>MongoDB</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/><b>Postgres</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=prisma" width="40"/><br/><b>Prisma</b></td>
 </tr>
 <tr>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/><b>MongoDB</b></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/><b>Postgres</b></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=android" width="40"/><br/><b>Android</b></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/><b>Git</b></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/><b>GitHub</b></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=vercel" width="40"/><br/><b>Vercel</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/><b>VS Code</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br/><b>Linux</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=figma" width="40"/><br/><b>Figma</b></td>
 </tr>
 </table>
 
@@ -108,7 +108,7 @@ Not just wrappers. Not just prompts. **Actual software that solves problems.**
 
 Uses AI to understand your patterns, suggest improvements, and help you build better routines — automatically.
 
-`Next.js` `TypeScript` `Tailwind` `AI`
+`TypeScript` `JavaScript` `HTML` `CSS`
 
 <img src="https://img.shields.io/github/stars/hmmlavi/Veylo?style=flat-square&color=222&labelColor=111" /> <img src="https://img.shields.io/github/last-commit/hmmlavi/Veylo?style=flat-square&color=222&labelColor=111" />
 
@@ -123,7 +123,7 @@ Uses AI to understand your patterns, suggest improvements, and help you build be
 
 AI-assisted task & workflow manager with natural language interaction and intelligent scheduling.
 
-`Node.js` `Express` `MongoDB` `AI`
+`Kotlin` `Android`
 
 <img src="https://img.shields.io/github/stars/hmmlavi/SaBuddy?style=flat-square&color=222&labelColor=111" /> <img src="https://img.shields.io/github/last-commit/hmmlavi/SaBuddy?style=flat-square&color=222&labelColor=111" />
 
@@ -158,7 +158,7 @@ AI-assisted task & workflow manager with natural language interaction and intell
 </td>
 <td width="50%" valign="top">
 
-🔧 &nbsp; Shipping **AI-integrated full stack products**
+🔧 &nbsp; Shipping **AI-integrated apps** for web & mobile
 
 🧪 &nbsp; Experimenting with **LLMs & smart automation**
 
@@ -166,7 +166,7 @@ AI-assisted task & workflow manager with natural language interaction and intell
 
 🤝 &nbsp; Always **open to collaborations**
 
-💬 &nbsp; Ask me about **React, Next.js, Node, Python**
+💬 &nbsp; Ask me about **React, Next.js, Kotlin, TypeScript**
 
 </td>
 </tr>

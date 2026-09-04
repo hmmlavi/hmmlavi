@@ -77,7 +77,7 @@ Not just wrappers. Not just prompts. **Actual software that solves problems.**
 <tr>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/><b>MongoDB</b></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/><b>Postgres</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=android" width="40"/><br/><b>Android</b></td>
+<td align="center" width="80"><img src="https://img.icons8.com/color/48/android-os.png" width="40" height="40"/><br/><b>Android</b></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/><b>Git</b></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/><b>GitHub</b></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=vercel" width="40"/><br/><b>Vercel</b></td>

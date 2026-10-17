@@ -1,199 +1,62 @@
-<div align="center">
+<h1 align="center">hey, i'm lakshit ✦</h1>
+
+<p align="center">
+  <sub>CSE UNDERGRAD &nbsp;·&nbsp; LOW-LEVEL TO FULL-STACK</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hmmlavi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=520&height=30&lines=C%2C+C%2B%2B+%26+Python+close+to+the+metal;TypeScript+for+real+products;Exploring+LLMs+%26+AI+apps" alt="" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://lakshitss.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-21262D?style=flat-square&logo=vercel&logoColor=E6EDF3&labelColor=161B22" alt="Portfolio" /></a>
+  <a href="https://x.com/Lakshits27"><img src="https://img.shields.io/badge/-X-21262D?style=flat-square&logo=x&logoColor=E6EDF3&labelColor=161B22" alt="X" /></a>
+  <a href="https://www.instagram.com/lakshitsinghsaini/"><img src="https://img.shields.io/badge/-Instagram-21262D?style=flat-square&logo=instagram&logoColor=E6EDF3&labelColor=161B22" alt="Instagram" /></a>
+  <a href="mailto:lakshitsinghsaini@gmail.com"><img src="https://img.shields.io/badge/-Email-21262D?style=flat-square&logo=gmail&logoColor=E6EDF3&labelColor=161B22" alt="Email" /></a>
+</p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI_SOFTWARE_ENGINEER-000?style=for-the-badge&logoColor=fff" />
+<p align="center">
+  <img src="./assets/about.svg" width="48%" alt="About" />
+  <img src="./assets/learning.svg" width="48%" alt="Currently learning" />
+</p>
 
-# Howdy, I'm Lakshit 👋
+<p align="center">
+  <img src="./assets/stack-core.svg" width="48%" alt="Core stack" />
+  <img src="./assets/stack-more.svg" width="48%" alt="Data, AI and tools" />
+</p>
 
-*I don't just write code — I build software that thinks.*
-<br/>
-*Full stack apps infused with AI, shipped from India* 🇮🇳
+<p align="center"><sub><b>◈ &nbsp;F E A T U R E D &nbsp; P R O J E C T S</b></sub></p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/hmmlavi/facilityfix">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=facilityfix&theme=transparent&hide_border=false&border_color=30363D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=E6EDF3&border_radius=14" alt="facilityfix" />
+  </a>
+  <a href="https://github.com/hmmlavi/sabuddy">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=sabuddy&theme=transparent&hide_border=false&border_color=30363D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=E6EDF3&border_radius=14" alt="sabuddy" />
+  </a>
+  <a href="https://github.com/hmmlavi/veylo">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=veylo&theme=transparent&hide_border=false&border_color=30363D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=E6EDF3&border_radius=14" alt="veylo" />
+  </a>
+</p>
 
-<a href="https://lakshitss.vercel.app/"><img src="https://img.shields.io/badge/portfolio-111?style=for-the-badge&logo=vercel&logoColor=fff" /></a>
-<a href="https://x.com/Lakshits27"><img src="https://img.shields.io/badge/x-111?style=for-the-badge&logo=x&logoColor=fff" /></a>
-<a href="mailto:lakshitsinghsaini@gmail.com"><img src="https://img.shields.io/badge/email-111?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
+<p align="center"><sub><b>◈ &nbsp;A C T I V I T Y</b></sub></p>
 
-</div>
-
----
-
-<div align="center">
-
-### 🧠 &nbsp; What I Do
-
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-I build **real products** — full stack applications with **AI baked into them**.
-Not just wrappers. Not just prompts. **Actual software that solves problems.**
-
-- 🤖 &nbsp; AI-powered habit tracking & personal management
-- ⚡ &nbsp; Full stack & mobile apps from concept to deployment
-- 🎯 &nbsp; Clean architecture & great user experience
-- 🚀 &nbsp; Ship fast, iterate faster
-
-</td>
-<td width="40%" align="center" valign="center">
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="240" />
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### ⚙️ &nbsp; Tech I Ship With
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hmmlavi&show_icons=true&theme=transparent&hide_border=false&hide_title=true&border_color=30363D&bg_color=00000000&text_color=8B949E&icon_color=E6EDF3&border_radius=14&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=hmmlavi&theme=transparent&hide_border=false&background=00000000&border=30363D&border_radius=14&ring=8B949E&fire=E6EDF3&currStreakNum=E6EDF3&sideNums=8B949E&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=484F58" alt="GitHub streak" />
+</p>
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br/><b>TypeScript</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/><b>JavaScript</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=kotlin" width="40"/><br/><b>Kotlin</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=py" width="40"/><br/><b>Python</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/><b>C++</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/><b>HTML</b></td>
-</tr>
-<tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/><b>CSS</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/><b>React</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/><b>Next.js</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/><b>Tailwind</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/><b>Node.js</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/><b>Express</b></td>
-</tr>
-<tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/><b>MongoDB</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/><b>Postgres</b></td>
-<td align="center" width="80"><img src="https://img.icons8.com/color/48/android-os.png" width="40" height="40"/><br/><b>Android</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/><b>Git</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/><b>GitHub</b></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=vercel" width="40"/><br/><b>Vercel</b></td>
-</tr>
-</table>
+<p align="center">
+  <sub>✦ &nbsp;open to internships, collaborations &amp; good conversations</sub><br/>
+  <sub><a href="mailto:lakshitsinghsaini@gmail.com">lakshitsinghsaini@gmail.com</a> &nbsp;·&nbsp; <a href="https://lakshitss.vercel.app/">lakshitss.vercel.app</a></sub>
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-### 🚀 &nbsp; Featured Projects
-
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### [⚡ Veylo](https://github.com/hmmlavi/Veylo)
-
-<img src="https://img.shields.io/badge/AI_POWERED-000?style=flat-square&logo=openai&logoColor=fff" />
-
-> **Intelligent Habit Planner**
-
-Uses AI to understand your patterns, suggest improvements, and help you build better routines — automatically.
-
-`TypeScript` `JavaScript` `HTML` `CSS`
-
-<img src="https://img.shields.io/github/stars/hmmlavi/Veylo?style=flat-square&color=222&labelColor=111" /> <img src="https://img.shields.io/github/last-commit/hmmlavi/Veylo?style=flat-square&color=222&labelColor=111" />
-
-</td>
-<td width="50%" valign="top">
-
-### [🤖 SaBuddy](https://github.com/hmmlavi/SaBuddy)
-
-<img src="https://img.shields.io/badge/AI_ASSISTED-000?style=flat-square&logo=openai&logoColor=fff" />
-
-> **Smart Personal Manager**
-
-AI-assisted task & workflow manager with natural language interaction and intelligent scheduling.
-
-`Kotlin` `Android`
-
-<img src="https://img.shields.io/github/stars/hmmlavi/SaBuddy?style=flat-square&color=222&labelColor=111" /> <img src="https://img.shields.io/github/last-commit/hmmlavi/SaBuddy?style=flat-square&color=222&labelColor=111" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-<a href="https://github.com/hmmlavi?tab=repositories">
-  <img src="https://img.shields.io/badge/all_repositories_→-111?style=for-the-badge" />
-</a>
-</div>
-
----
-
-<div align="center">
-
-### 💡 &nbsp; Currently
-
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="center">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240" />
-
-</td>
-<td width="50%" valign="top">
-
-🔧 &nbsp; Shipping **AI-integrated apps** for web & mobile
-
-🧪 &nbsp; Experimenting with **LLMs & smart automation**
-
-📦 &nbsp; Obsessed with **clean code & great UX**
-
-🤝 &nbsp; Always **open to collaborations**
-
-💬 &nbsp; Ask me about **React, Next.js, Kotlin, TypeScript**
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/hmmlavi?style=for-the-badge&color=111111&labelColor=111111&logo=github&logoColor=ffffff" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/hmmlavi?style=for-the-badge&color=111111&labelColor=111111&logo=github&logoColor=ffffff&label=total%20stars" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=hmmlavi&label=profile+views&color=111111&style=for-the-badge" />
-
-<br/><br/>
-
-<a href="https://lakshitss.vercel.app">
-  <img src="https://img.shields.io/badge/→_lakshitss.vercel.app-111?style=for-the-badge&logo=vercel&logoColor=fff" />
-</a>
-
-<br/><br/>
-
-<sub>built with 🤍 and mass amounts of ☕ by lakshit</sub>
-
-<br/><br/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hmmlavi&label=VISITS&color=30363D&style=flat-square&labelColor=161B22" alt="Visitors" />
+</p>

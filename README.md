@@ -69,10 +69,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmlavi&layout=compact&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&border_radius=12&langs_count=6" />
 </p>
 
-<p align="center"><sub><b>◈ &nbsp;C O N T R I B U T I O N &nbsp; H I S T O R Y</b></sub></p>
-
-<p align="center"><img src="./assets/contributions.svg" width="96%" /></p>
-
 <p align="center"><img src="./assets/milestones.svg" width="96%" /></p>
 
 <p align="center"><img src="./assets/divider.svg" width="70%" /></p>

@@ -19,13 +19,13 @@
   <path d="M18 2H782" stroke="#fff" stroke-opacity=".12" stroke-width=".8"/>
   <circle cx="28" cy="56" r="3" fill="#E6EDF3" fill-opacity=".25"/>
   <text x="42" y="34" class="l">FOCUS</text>
-  <text x="42" y="60" class="v">veylo · facilityfix</text>
+  <text x="42" y="60" class="v">Veylo · FacilityFix</text>
   <circle cx="310" cy="56" r="3" fill="#E6EDF3">
     <animate attributeName="opacity" values="1;.15;1" dur="2s" repeatCount="indefinite"/>
   </circle>
   <text x="324" y="34" class="l">STATUS</text>
-  <text x="324" y="60" class="v">open to internships</text>
+  <text x="324" y="60" class="v">Open to Internships</text>
   <circle cx="592" cy="56" r="3" fill="#E6EDF3" fill-opacity=".25"/>
   <text x="606" y="34" class="l">LEARNING</text>
-  <text x="606" y="60" class="v">llm apps · systems</text>
+  <text x="606" y="60" class="v">LLM Apps · Systems</text>
 </svg>

@@ -1,0 +1,21 @@
+<svg width="400" height="190" viewBox="0 0 400 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".08"/><stop offset="1" stop-color="#fff" stop-opacity=".02"/></linearGradient>
+    <linearGradient id="e" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".30"/><stop offset=".5" stop-color="#fff" stop-opacity=".08"/><stop offset="1" stop-color="#fff" stop-opacity=".16"/></linearGradient>
+    <filter id="s" x="-10%" y="-10%" width="120%" height="145%"><feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#000" flood-opacity=".6"/></filter>
+    <style>
+      .t{font:600 11px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;letter-spacing:3px;fill:#E6EDF3}
+      .p{font:400 13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#A8B2BD}
+      .m{font:500 12.5px SFMono-Regular,Consolas,Menlo,monospace;fill:#E6EDF3}
+    </style>
+  </defs>
+  <rect x="8" y="6" width="384" height="160" rx="16" fill="#161B22" fill-opacity=".55" filter="url(#s)"/>
+  <rect x="8.5" y="6.5" width="383" height="159" rx="16" fill="url(#f)" stroke="url(#e)"/>
+  <path d="M26 7H374" stroke="#fff" stroke-opacity=".22"/>
+  <text x="26" y="36" class="t">✦ ABOUT</text>
+  <text x="26" y="66" class="p">CSE undergrad who codes across the stack —</text>
+  <text x="26" y="86" class="p">from low-level C/C++ to production-ready</text>
+  <text x="26" y="106" class="p">web and mobile apps.</text>
+  <path d="M26 124H374" stroke="#fff" stroke-opacity=".08"/>
+  <text x="26" y="148" class="m">◈ Python · C · C++ · TypeScript</text>
+</svg>

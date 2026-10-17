@@ -71,9 +71,7 @@
 
 <p align="center"><sub><b>◈ &nbsp;C O N T R I B U T I O N &nbsp; H I S T O R Y</b></sub></p>
 
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=hmmlavi&bg_color=00000000&hide_border=true&color=6E7681&line=C9D1D9&point=E6EDF3&area=true&area_color=161B22&title_color=E6EDF3&custom_title=commits%20%C2%B7%20pull%20requests%20%C2%B7%20issues" />
-</p>
+<p align="center"><img src="./assets/contributions.svg" width="96%" /></p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hmmlavi&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8" />

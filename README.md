@@ -1,62 +1,89 @@
 <h1 align="center">hey, i'm lakshit ✦</h1>
 
 <p align="center">
-  <sub>CSE UNDERGRAD &nbsp;·&nbsp; LOW-LEVEL TO FULL-STACK</sub>
+  <sub>CSE UNDERGRAD &nbsp;·&nbsp; LOW-LEVEL TO FULL-STACK &nbsp;·&nbsp; BUILDING REAL PRODUCTS</sub>
 </p>
 
 <p align="center">
   <a href="https://github.com/hmmlavi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=520&height=30&lines=C%2C+C%2B%2B+%26+Python+close+to+the+metal;TypeScript+for+real+products;Exploring+LLMs+%26+AI+apps" alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2800&pause=1000&color=6E7681&center=true&vCenter=true&width=480&height=28&lines=C+and+C%2B%2B+close+to+the+metal;TypeScript+for+real+products;Exploring+LLMs+and+AI+apps;Always+shipping+something+new" alt="" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://lakshitss.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-21262D?style=flat-square&logo=vercel&logoColor=E6EDF3&labelColor=161B22" alt="Portfolio" /></a>
-  <a href="https://x.com/Lakshits27"><img src="https://img.shields.io/badge/-X-21262D?style=flat-square&logo=x&logoColor=E6EDF3&labelColor=161B22" alt="X" /></a>
-  <a href="https://www.instagram.com/lakshitsinghsaini/"><img src="https://img.shields.io/badge/-Instagram-21262D?style=flat-square&logo=instagram&logoColor=E6EDF3&labelColor=161B22" alt="Instagram" /></a>
-  <a href="mailto:lakshitsinghsaini@gmail.com"><img src="https://img.shields.io/badge/-Email-21262D?style=flat-square&logo=gmail&logoColor=E6EDF3&labelColor=161B22" alt="Email" /></a>
+  <a href="https://lakshitss.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-161B22?style=flat-square&logo=vercel&logoColor=ccc" /></a>
+  <a href="https://x.com/Lakshits27"><img src="https://img.shields.io/badge/-X-161B22?style=flat-square&logo=x&logoColor=ccc" /></a>
+  <a href="https://www.instagram.com/lakshitsinghsaini/"><img src="https://img.shields.io/badge/-Instagram-161B22?style=flat-square&logo=instagram&logoColor=ccc" /></a>
+  <a href="mailto:lakshitsinghsaini@gmail.com"><img src="https://img.shields.io/badge/-Email-161B22?style=flat-square&logo=gmail&logoColor=ccc" /></a>
+  <img src="https://hits.sh/github.com/hmmlavi.svg?style=flat-square&label=visitors&color=161B22&labelColor=0D1117" />
 </p>
+
+<p align="center"><img src="./assets/divider.svg" width="70%" /></p>
+
+<p align="center"><img src="./assets/now.svg" width="96%" /></p>
 
 <br/>
 
 <p align="center">
-  <img src="./assets/about.svg" width="48%" alt="About" />
-  <img src="./assets/learning.svg" width="48%" alt="Currently learning" />
+  <img src="./assets/about.svg" width="48%" />
+  <img src="./assets/learning.svg" width="48%" />
 </p>
 
 <p align="center">
-  <img src="./assets/stack-core.svg" width="48%" alt="Core stack" />
-  <img src="./assets/stack-more.svg" width="48%" alt="Data, AI and tools" />
+  <img src="./assets/stack-core.svg" width="48%" />
+  <img src="./assets/stack-more.svg" width="48%" />
 </p>
+
+<p align="center">
+  <img src="./assets/activity.svg" width="48%" />
+  <img src="./assets/numbers.svg" width="48%" />
+</p>
+
+<br/>
+
+<p align="center"><img src="./assets/ticker.svg" width="96%" /></p>
+
+<p align="center"><img src="./assets/divider.svg" width="70%" /></p>
 
 <p align="center"><sub><b>◈ &nbsp;F E A T U R E D &nbsp; P R O J E C T S</b></sub></p>
 
 <p align="center">
   <a href="https://github.com/hmmlavi/facilityfix">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=facilityfix&theme=transparent&hide_border=false&border_color=30363D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=E6EDF3&border_radius=14" alt="facilityfix" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=facilityfix&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" />
   </a>
   <a href="https://github.com/hmmlavi/sabuddy">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=sabuddy&theme=transparent&hide_border=false&border_color=30363D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=E6EDF3&border_radius=14" alt="sabuddy" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=sabuddy&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" />
   </a>
   <a href="https://github.com/hmmlavi/veylo">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=veylo&theme=transparent&hide_border=false&border_color=30363D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=E6EDF3&border_radius=14" alt="veylo" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=veylo&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" />
   </a>
 </p>
 
-<p align="center"><sub><b>◈ &nbsp;A C T I V I T Y</b></sub></p>
+<p align="center"><img src="./assets/divider.svg" width="70%" /></p>
+
+<p align="center"><sub><b>◈ &nbsp;S T A T S</b></sub></p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hmmlavi&show_icons=true&theme=transparent&hide_border=false&hide_title=true&border_color=30363D&bg_color=00000000&text_color=8B949E&icon_color=E6EDF3&border_radius=14&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=hmmlavi&theme=transparent&hide_border=false&background=00000000&border=30363D&border_radius=14&ring=8B949E&fire=E6EDF3&currStreakNum=E6EDF3&sideNums=8B949E&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=484F58" alt="GitHub streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hmmlavi&show_icons=true&theme=transparent&hide_border=false&hide_title=true&border_color=21262D&bg_color=00000000&text_color=8B949E&icon_color=C9D1D9&border_radius=12&include_all_commits=true&rank_icon=github" />
+  <img height="160" src="https://streak-stats.demolab.com?user=hmmlavi&theme=transparent&hide_border=false&background=00000000&border=21262D&border_radius=12&ring=6E7681&fire=E6EDF3&currStreakNum=E6EDF3&sideNums=8B949E&currStreakLabel=C9D1D9&sideLabels=6E7681&dates=484F58" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmlavi&layout=compact&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&border_radius=12&langs_count=6" />
 </p>
 
-<br/>
+<p align="center"><sub><b>◈ &nbsp;C O N T R I B U T I O N &nbsp; H I S T O R Y</b></sub></p>
 
 <p align="center">
-  <sub>✦ &nbsp;open to internships, collaborations &amp; good conversations</sub><br/>
-  <sub><a href="mailto:lakshitsinghsaini@gmail.com">lakshitsinghsaini@gmail.com</a> &nbsp;·&nbsp; <a href="https://lakshitss.vercel.app/">lakshitss.vercel.app</a></sub>
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=hmmlavi&bg_color=00000000&hide_border=true&color=6E7681&line=C9D1D9&point=E6EDF3&area=true&area_color=161B22&title_color=E6EDF3&custom_title=commits%20%C2%B7%20pull%20requests%20%C2%B7%20issues" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hmmlavi&label=VISITS&color=30363D&style=flat-square&labelColor=161B22" alt="Visitors" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hmmlavi&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8" />
+</p>
+
+<p align="center"><img src="./assets/divider.svg" width="70%" /></p>
+
+<p align="center">
+  <sub>✦ &nbsp;always building something new — let's connect</sub><br/><br/>
+  <a href="mailto:lakshitsinghsaini@gmail.com"><sub>lakshitsinghsaini@gmail.com</sub></a>
+  <sub>&nbsp;·&nbsp;</sub>
+  <a href="https://lakshitss.vercel.app/"><sub>lakshitss.vercel.app</sub></a>
 </p>

@@ -1,0 +1,46 @@
+<svg width="400" height="180" viewBox="0 0 400 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".015"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".28"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".18"/>
+    </linearGradient>
+    <style>
+      .h{font:600 11px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;letter-spacing:2.5px;fill:#E6EDF3}
+      .l{font:600 10px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;letter-spacing:1.5px;fill:#6E7681}
+      .v{font:500 11px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#8B949E}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="398" height="178" rx="14" fill="#0D1117" fill-opacity=".55"/>
+  <rect x="1.5" y="1.5" width="397" height="177" rx="14" fill="url(#bg)" stroke="url(#rim)" stroke-width=".8"/>
+  <path d="M18 2H382" stroke="#fff" stroke-opacity=".12" stroke-width=".8"/>
+  <text x="24" y="32" class="h">◇  BY THE NUMBERS</text>
+
+  <text x="24" y="62" class="l">TYPESCRIPT</text><text x="376" y="62" class="v" text-anchor="end">42%</text>
+  <rect x="24" y="68" width="352" height="6" rx="3" fill="#fff" fill-opacity=".06"/>
+  <rect x="24" y="68" width="0" height="6" rx="3" fill="#E6EDF3" fill-opacity=".8">
+    <animate attributeName="width" values="0;0;148;148" keyTimes="0;0.05;0.28;1" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="24" y="88" class="l">PYTHON</text><text x="376" y="88" class="v" text-anchor="end">26%</text>
+  <rect x="24" y="94" width="352" height="6" rx="3" fill="#fff" fill-opacity=".06"/>
+  <rect x="24" y="94" width="0" height="6" rx="3" fill="#E6EDF3" fill-opacity=".8">
+    <animate attributeName="width" values="0;0;92;92" keyTimes="0;0.13;0.36;1" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="24" y="114" class="l">C / C++</text><text x="376" y="114" class="v" text-anchor="end">20%</text>
+  <rect x="24" y="120" width="352" height="6" rx="3" fill="#fff" fill-opacity=".06"/>
+  <rect x="24" y="120" width="0" height="6" rx="3" fill="#E6EDF3" fill-opacity=".8">
+    <animate attributeName="width" values="0;0;70;70" keyTimes="0;0.21;0.44;1" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="24" y="140" class="l">OTHER</text><text x="376" y="140" class="v" text-anchor="end">12%</text>
+  <rect x="24" y="146" width="352" height="6" rx="3" fill="#fff" fill-opacity=".06"/>
+  <rect x="24" y="146" width="0" height="6" rx="3" fill="#E6EDF3" fill-opacity=".8">
+    <animate attributeName="width" values="0;0;42;42" keyTimes="0;0.29;0.52;1" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>

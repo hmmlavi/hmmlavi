@@ -1,0 +1,57 @@
+<svg width="800" height="130" viewBox="0 0 800 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".015"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".28"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".18"/>
+    </linearGradient>
+    <style>
+      .h{font:600 11px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;letter-spacing:2.5px;fill:#E6EDF3}
+      .t{font:600 12px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#E6EDF3}
+      .s{font:400 11px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#8B949E}
+      .w{font:400 64px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#fff;fill-opacity:.03}
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="798" height="128" rx="14" fill="#0D1117" fill-opacity=".55"/>
+  <rect x="1.5" y="1.5" width="797" height="127" rx="14" fill="url(#bg)" stroke="url(#rim)" stroke-width=".8"/>
+  <path d="M18 2H782" stroke="#fff" stroke-opacity=".12" stroke-width=".8"/>
+
+  <text x="24" y="30" class="h">◈  MILESTONES</text>
+
+  <!-- Column 1 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.2s" fill="freeze"/>
+    <text x="100" y="105" class="w" text-anchor="middle">✦</text>
+    <text x="100" y="72" class="t" text-anchor="middle">Multi-Language</text>
+    <text x="100" y="92" class="s" text-anchor="middle">Python · C · TS</text>
+  </g>
+
+  <!-- Column 2 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.4s" fill="freeze"/>
+    <text x="300" y="105" class="w" text-anchor="middle">⌘</text>
+    <text x="300" y="72" class="t" text-anchor="middle">Full-Stack</text>
+    <text x="300" y="92" class="s" text-anchor="middle">UI to Database</text>
+  </g>
+
+  <!-- Column 3 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.6s" fill="freeze"/>
+    <text x="500" y="105" class="w" text-anchor="middle">◈</text>
+    <text x="500" y="72" class="t" text-anchor="middle">Consistent</text>
+    <text x="500" y="92" class="s" text-anchor="middle">Active History</text>
+  </g>
+
+  <!-- Column 4 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.8s" fill="freeze"/>
+    <text x="700" y="105" class="w" text-anchor="middle">❖</text>
+    <text x="700" y="72" class="t" text-anchor="middle">AI Explorer</text>
+    <text x="700" y="92" class="s" text-anchor="middle">LLMs · RAG</text>
+  </g>
+</svg>

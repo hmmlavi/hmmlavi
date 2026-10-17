@@ -18,7 +18,7 @@
   <rect x="1.5" y="1.5" width="397" height="177" rx="14" fill="url(#bg)" stroke="url(#rim)" stroke-width=".8"/>
   <path d="M18 2H382" stroke="#fff" stroke-opacity=".12" stroke-width=".8"/>
   <text x="24" y="32" class="h">◈  COMMIT PULSE</text>
-  <text x="376" y="32" class="l" text-anchor="end">last 90 days</text>
+  <text x="376" y="32" class="l" text-anchor="end">LAST 90 DAYS</text>
   <path d="M24 78H376 M24 104H376 M24 130H376" stroke="#fff" stroke-opacity=".05"/>
   <path d="M24 150H376" stroke="#fff" stroke-opacity=".08"/>
   <path d="M24 132 C48 118 64 138 88 124 C112 109 126 96 150 108 C172 119 186 133 208 119 C230 105 242 86 266 97 C288 107 302 123 324 112 C346 101 358 84 376 90"
@@ -32,5 +32,5 @@
   <circle cx="376" cy="90" r="3" fill="#E6EDF3">
     <animate attributeName="opacity" values=".8;.1;.8" dur="2.2s" repeatCount="indefinite"/>
   </circle>
-  <text x="24" y="166" class="l">illustrative rhythm · live graph below</text>
+  <text x="24" y="166" class="l">ACTIVITY RHYTHM · 90-DAY WINDOW</text>
 </svg>

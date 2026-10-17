@@ -1,0 +1,6 @@
+<svg width="800" height="6" viewBox="0 0 800 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="2.5" width="800" height="1" fill="#fff" fill-opacity=".07"/>
+  <rect y="2" width="64" height="2" rx="1" fill="#E6EDF3" fill-opacity=".5">
+    <animate attributeName="x" values="-70;800" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

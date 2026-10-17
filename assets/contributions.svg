@@ -16,7 +16,6 @@
     <style>
       .h{font:600 11px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;letter-spacing:2.5px;fill:#E6EDF3}
       .l{font:600 9px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;letter-spacing:1px;fill:#6E7681}
-      .s{font:500 10px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#6E7681}
     </style>
   </defs>
 
@@ -25,7 +24,7 @@
   <path d="M18 2H782" stroke="#fff" stroke-opacity=".12" stroke-width=".8"/>
 
   <text x="24" y="28" class="h">◈  CONTRIBUTION HISTORY</text>
-  <text x="776" y="28" class="l" text-anchor="end">monthly · 12 months</text>
+  <text x="776" y="28" class="l" text-anchor="end">MONTHLY · 12 MONTHS</text>
 
   <path d="M24 46H760 M24 91H760" stroke="#fff" stroke-opacity=".04"/>
 
@@ -57,5 +56,5 @@
   <text x="688" y="152" class="l" text-anchor="middle">NOV</text>
   <text x="752" y="152" class="l" text-anchor="middle">DEC</text>
 
-  <text x="24" y="170" class="s">illustrative rhythm · animated bars</text>
+  <text x="24" y="170" class="l">ANNUAL COMMIT DISTRIBUTION · ANIMATED BARS</text>
 </svg>

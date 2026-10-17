@@ -1,0 +1,21 @@
+<svg width="800" height="48" viewBox="0 0 800 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".015"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".28"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".18"/>
+    </linearGradient>
+    <style>.t{font:500 11px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:2px;fill:#C9D1D9;fill-opacity:.7}</style>
+  </defs>
+  <rect x="1" y="1" width="798" height="46" rx="12" fill="#0D1117" fill-opacity=".55"/>
+  <rect x="1.5" y="1.5" width="797" height="45" rx="12" fill="url(#bg)" stroke="url(#rim)" stroke-width=".8"/>
+  <g>
+    <text x="0" y="30" class="t" textLength="1400" lengthAdjust="spacing">PYTHON ✦ C ✦ C++ ✦ TYPESCRIPT ✦ NEXT.JS ✦ REACT ✦ TAILWIND CSS ✦ NODE.JS ✦ EXPRESS ✦ REST APIS ✦ POSTGRESQL ✦ OPENAI API ✦ LANGCHAIN ✦ GIT ✦ GITHUB ✦ VERCEL ✦ </text>
+    <text x="1400" y="30" class="t" textLength="1400" lengthAdjust="spacing">PYTHON ✦ C ✦ C++ ✦ TYPESCRIPT ✦ NEXT.JS ✦ REACT ✦ TAILWIND CSS ✦ NODE.JS ✦ EXPRESS ✦ REST APIS ✦ POSTGRESQL ✦ OPENAI API ✦ LANGCHAIN ✦ GIT ✦ GITHUB ✦ VERCEL ✦ </text>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1400 0" dur="26s" repeatCount="indefinite"/>
+  </g>
+</svg>

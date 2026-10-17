@@ -73,9 +73,7 @@
 
 <p align="center"><img src="./assets/contributions.svg" width="96%" /></p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hmmlavi&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8" />
-</p>
+<p align="center"><img src="./assets/milestones.svg" width="96%" /></p>
 
 <p align="center"><img src="./assets/divider.svg" width="70%" /></p>
 

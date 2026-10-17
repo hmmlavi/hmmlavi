@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm lakshit ✦</h1>
+<h1 align="center">Hey, I'm Lakshit ✦</h1>
 
 <p align="center">
   <sub>CSE UNDERGRAD &nbsp;·&nbsp; LOW-LEVEL TO FULL-STACK &nbsp;·&nbsp; BUILDING REAL PRODUCTS</sub>
@@ -15,7 +15,7 @@
   <a href="https://x.com/Lakshits27"><img src="https://img.shields.io/badge/-X-161B22?style=flat-square&logo=x&logoColor=ccc" /></a>
   <a href="https://www.instagram.com/lakshitsinghsaini/"><img src="https://img.shields.io/badge/-Instagram-161B22?style=flat-square&logo=instagram&logoColor=ccc" /></a>
   <a href="mailto:lakshitsinghsaini@gmail.com"><img src="https://img.shields.io/badge/-Email-161B22?style=flat-square&logo=gmail&logoColor=ccc" /></a>
-  <img src="https://hits.sh/github.com/hmmlavi.svg?style=flat-square&label=visitors&color=161B22&labelColor=0D1117" />
+  <img src="https://hits.sh/github.com/hmmlavi.svg?style=flat-square&label=Visitors&color=161B22&labelColor=0D1117" />
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="70%" /></p>
@@ -57,9 +57,6 @@
   <a href="https://github.com/hmmlavi/veylo">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=veylo&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" />
   </a>
-  <a href="https://github.com/hmmlavi?tab=repositories">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hmmlavi&custom_title=All%20Repositories&show_icons=true&hide_rank=true&hide=prs,issues,contribs&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" alt="View all repositories" />
-</a>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="70%" /></p>
@@ -81,7 +78,7 @@
 <p align="center"><img src="./assets/divider.svg" width="70%" /></p>
 
 <p align="center">
-  <sub>✦ &nbsp;always building something new — let's connect</sub><br/><br/>
+  <sub>✦ &nbsp;Always building something new — let's connect</sub><br/><br/>
   <a href="mailto:lakshitsinghsaini@gmail.com"><sub>lakshitsinghsaini@gmail.com</sub></a>
   <sub>&nbsp;·&nbsp;</sub>
   <a href="https://lakshitss.vercel.app/"><sub>lakshitss.vercel.app</sub></a>

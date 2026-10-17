@@ -57,6 +57,9 @@
   <a href="https://github.com/hmmlavi/veylo">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=veylo&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" />
   </a>
+  <a href="https://github.com/hmmlavi?tab=repositories">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hmmlavi&custom_title=All%20Repositories&show_icons=true&hide_rank=true&hide=prs,issues,contribs&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" alt="View all repositories" />
+</a>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="70%" /></p>

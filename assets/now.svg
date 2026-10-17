@@ -1,0 +1,31 @@
+<svg width="800" height="84" viewBox="0 0 800 84" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".015"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".28"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".18"/>
+    </linearGradient>
+    <style>
+      .l{font:600 10px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;letter-spacing:1.5px;fill:#6E7681}
+      .v{font:500 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#E6EDF3}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="798" height="82" rx="14" fill="#0D1117" fill-opacity=".55"/>
+  <rect x="1.5" y="1.5" width="797" height="81" rx="14" fill="url(#bg)" stroke="url(#rim)" stroke-width=".8"/>
+  <path d="M18 2H782" stroke="#fff" stroke-opacity=".12" stroke-width=".8"/>
+  <circle cx="28" cy="56" r="3" fill="#E6EDF3" fill-opacity=".25"/>
+  <text x="42" y="34" class="l">FOCUS</text>
+  <text x="42" y="60" class="v">veylo · facilityfix</text>
+  <circle cx="310" cy="56" r="3" fill="#E6EDF3">
+    <animate attributeName="opacity" values="1;.15;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="324" y="34" class="l">STATUS</text>
+  <text x="324" y="60" class="v">open to internships</text>
+  <circle cx="592" cy="56" r="3" fill="#E6EDF3" fill-opacity=".25"/>
+  <text x="606" y="34" class="l">LEARNING</text>
+  <text x="606" y="60" class="v">llm apps · systems</text>
+</svg>

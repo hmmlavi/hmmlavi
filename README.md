@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Lakshit ✦</h1>
 
 <p align="center">
-  <sub>CSE UNDERGRAD &nbsp;·&nbsp; LOW-LEVEL TO FULL-STACK &nbsp;·&nbsp; BUILDING REAL PRODUCTS</sub>
+  <sub>CSE UNDERGRAD &nbsp;·&nbsp; FULL-STACK DEV &nbsp;·&nbsp; BUILDING REAL PRODUCTS</sub>
 </p>
 
 <p align="center">

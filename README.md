@@ -49,13 +49,25 @@
 
 <p align="center">
   <a href="https://github.com/hmmlavi/facilityfix">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=facilityfix&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" />
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=facilityfix&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" />
   </a>
   <a href="https://github.com/hmmlavi/sabuddy">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=sabuddy&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" />
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=sabuddy&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" />
   </a>
   <a href="https://github.com/hmmlavi/veylo">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=veylo&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" />
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=veylo&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hmmlavi/sortify-desktop">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=sortify-desktop&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" />
+  </a>
+  <a href="https://github.com/hmmlavi/Pustakalaya-LMS">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=Pustakalaya-LMS&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" />
+  </a>
+  <a href="https://github.com/hmmlavi">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api?username=hmmlavi&show_icons=true&hide_title=true&hide_rank=true&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" />
   </a>
 </p>
 

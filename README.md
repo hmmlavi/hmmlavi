@@ -66,8 +66,8 @@
   <a href="https://github.com/hmmlavi/Pustakalaya-LMS">
     <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=hmmlavi&repo=Pustakalaya-LMS&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" />
   </a>
-  <a href="https://github.com/hmmlavi">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api?username=hmmlavi&show_icons=true&hide_title=true&hide_rank=true&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&border_radius=12" />
+  <a href="https://github.com/hmmlavi?tab=repositories">
+    <img width="32%" src="https://placehold.co/600x180/000000/8B949E?text=MORE+REPOSITORIES&font=roboto" alt="More repositories on GitHub" />
   </a>
 </p>
 

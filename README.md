@@ -72,7 +72,7 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=hmmlavi&show_icons=true&theme=transparent&hide_border=false&hide_title=true&border_color=21262D&bg_color=00000000&text_color=8B949E&icon_color=C9D1D9&border_radius=12&include_all_commits=true&rank_icon=github" />
-  <img height="160" src="https://streak-stats.demolab.com?user=hmmlavi&theme=transparent&hide_border=false&background=00000000&border=21262D&border_radius=12&ring=6E7681&fire=E6EDF3&currStreakNum=E6EDF3&sideNums=8B949E&currStreakLabel=C9D1D9&sideLabels=6E7681&dates=484F58" />
+  <img height="160" src="https://streak-stats.demolab.com?user=hmmlavi&timezone=Asia%2FKolkata&theme=transparent&hide_border=false&background=00000000&border=21262D&border_radius=12&ring=6E7681&fire=E6EDF3&currStreakNum=E6EDF3&sideNums=8B949E&currStreakLabel=C9D1D9&sideLabels=6E7681&dates=484F58" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmlavi&layout=compact&theme=transparent&hide_border=false&border_color=21262D&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&border_radius=12&langs_count=6" />
 </p>
 

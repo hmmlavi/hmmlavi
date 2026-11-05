@@ -45,9 +45,6 @@
   I learn by making things, breaking things, and figuring out how they work.
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGs association?cid=ecf05e47" alt="" />
-</div>
 
 <hr/>
 

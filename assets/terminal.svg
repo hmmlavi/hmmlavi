@@ -4,7 +4,7 @@
       <stop stop-color="#111820"/><stop offset="1" stop-color="#202B35"/>
     </linearGradient>
     <linearGradient id="line" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#86BFA5" stop-opacity=".8"/><stop offset="1" stop-color="#86BFA5" stop-opacity="0"/>
+      <stop stop-color="#86BFA5" stop-opacity="0"/><stop offset="1" stop-color="#86BFA5" stop-opacity=".8"/>
     </linearGradient>
     <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
@@ -13,14 +13,14 @@
   <rect x="1" y="1" width="998" height="358" rx="18" fill="url(#bg)" stroke="#52616D" stroke-opacity=".65" stroke-width="2"/>
   <path d="M1 58H999" stroke="#52616D" stroke-opacity=".55"/>
   <circle cx="30" cy="30" r="6" fill="#F07D79"/><circle cx="52" cy="30" r="6" fill="#E7BE70"/><circle cx="74" cy="30" r="6" fill="#83B99A"/>
-  <text x="500" y="35" fill="#9BAAB5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" text-anchor="middle">lakshit@workspace: ~</text>
-  <text x="54" y="112" fill="#8BC5A5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17">$ whoami</text>
-  <text x="54" y="160" fill="#F1F4F5" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700">Hey, I'm Lakshit.</text>
-  <text x="56" y="195" fill="#AEBBC4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">CSE student  /  Developer  /  Curious mind</text>
+  <text x="946" y="35" fill="#9BAAB5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" text-anchor="end">lakshit@workspace: ~</text>
+  <text x="946" y="112" fill="#8BC5A5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" text-anchor="end">$ whoami</text>
+  <text x="946" y="160" fill="#F1F4F5" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700" text-anchor="end">Hey, I'm Lakshit.</text>
+  <text x="946" y="195" fill="#AEBBC4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" text-anchor="end">CSE student  /  Developer  /  Curious mind</text>
   <path d="M54 220H946" stroke="url(#line)" stroke-width="1.5"/>
-  <text x="54" y="258" fill="#8BC5A5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">$ cat about.txt</text>
-  <text x="54" y="291" fill="#D6DEE3" font-family="Arial, Helvetica, sans-serif" font-size="17">Turning ideas into useful software. Learning by building.</text>
-  <text x="54" y="326" fill="#8BC5A5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">$ <tspan fill="#F1F4F5"> </tspan><tspan class="cursor" filter="url(#glow)">▌</tspan></text>
+  <text x="946" y="258" fill="#8BC5A5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" text-anchor="end">$ cat about.txt</text>
+  <text x="946" y="291" fill="#D6DEE3" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="end">Turning ideas into useful software. Learning by building.</text>
+  <text x="946" y="326" fill="#8BC5A5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" text-anchor="end">$ <tspan fill="#F1F4F5"> </tspan><tspan class="cursor" filter="url(#glow)">▌</tspan></text>
   <circle cx="920" cy="105" r="3" fill="#8BC5A5" opacity=".7"/><circle cx="944" cy="129" r="2" fill="#8BC5A5" opacity=".45"/>
   <style>@keyframes blink{0%,48%{opacity:1}49%,100%{opacity:0}} .cursor{animation:blink 1.1s steps(2,start) infinite}</style>
 </svg>

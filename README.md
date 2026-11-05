@@ -1,71 +1,58 @@
-<h1 align="center">Hey, I'm Lakshit ✦</h1>
+<!-- Minimal terminal-inspired profile README -->
 
-<p align="center">
-  <sub>CSE UNDERGRAD &nbsp;·&nbsp; FULL-STACK DEV &nbsp;·&nbsp; BUILDING REAL PRODUCTS</sub>
+<h1 align="left">Hey, I'm Lakshit.</h1>
+
+<p align="left">
+  <code>CSE student</code> &nbsp; <code>Developer</code> &nbsp; <code>Curious mind</code>
 </p>
 
-<p align="center">
-  <img src="./assets/hero.svg" width="96%" alt="Lakshit's developer profile: engineering ideas into useful software" />
+<p align="left">
+  I enjoy turning ideas into useful software. I build web applications and desktop tools, explore new technologies, and learn by making things.
 </p>
 
-<p align="center">
-  <a href="https://lakshitss.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://github.com/hmmlavi">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://x.com/Lakshits27">X</a> &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/lakshitsinghsaini/">Instagram</a> &nbsp;·&nbsp;
+<p align="left">
+  <a href="https://lakshitss.vercel.app/">Portfolio</a> ·
+  <a href="https://github.com/hmmlavi">GitHub</a> ·
+  <a href="https://x.com/Lakshits27">X</a> ·
+  <a href="https://www.instagram.com/lakshitsinghsaini/">Instagram</a> ·
   <a href="mailto:lakshitsinghsaini@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://hits.sh/github.com/hmmlavi.svg?style=flat-square&label=Visitors&color=161B22&labelColor=0D1117" alt="Profile visitor counter" />
+<p align="left">
+  <img src="https://hits.sh/github.com/hmmlavi.svg?style=flat-square&label=visitors&color=252A34&labelColor=171A21" alt="Profile visitors" />
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="70%" alt="" /></p>
+---
 
-<p align="center"><img src="./assets/now.svg" width="96%" alt="Current focus, status and learning areas" /></p>
+### `~/currently`
 
-<br/>
+- Building projects that solve practical problems.
+- Exploring full-stack development, AI-powered tools and software engineering.
+- Learning something new with every build.
 
-<p align="center">
-  <img src="./assets/about.svg" width="48%" alt="About me" />
-  <img src="./assets/learning.svg" width="48%" alt="Currently learning" />
-</p>
+### `~/projects`
 
-<p align="center">
-  <img src="./assets/stack-core.svg" width="48%" alt="Core technology stack" />
-  <img src="./assets/stack-more.svg" width="48%" alt="Data, AI and tools" />
-</p>
-
-<p align="center"><img src="./assets/ticker.svg" width="96%" alt="Technology stack ticker" /></p>
-
-<p align="center"><img src="./assets/divider.svg" width="70%" alt="" /></p>
-
-<p align="center"><sub><b>◈ &nbsp;F E A T U R E D &nbsp; P R O J E C T S</b></sub></p>
-
-| Project | What I'm building |
+| Project | Description |
 |:--|:--|
 | [FacilityFix](https://github.com/hmmlavi/FacilityFix) | A platform for reporting and managing campus facility issues. |
-| [SaBuddy](https://github.com/hmmlavi/SaBuddy) | A practical student-focused assistant project. |
+| [SaBuddy](https://github.com/hmmlavi/SaBuddy) | A student-focused assistant project. |
 | [Veylo](https://github.com/hmmlavi/Veylo) | A focused web experience with a clean, interactive interface. |
 | [Sortify Desktop](https://github.com/hmmlavi/sortify-desktop) | AI-assisted file naming and organization for desktop workflows. |
 | [Pustakalaya LMS](https://github.com/hmmlavi/Pustakalaya-LMS) | A library management system with desktop distribution and tests. |
 
-<p align="center"><sub><b>◈ &nbsp;B U I L D &nbsp; A C T I V I T Y</b></sub></p>
+### `~/toolkit`
 
-<p align="center">
-  <img src="./assets/activity.svg" width="48%" alt="Animated idea, build and improve loop" />
-  <img src="./assets/milestones.svg" width="48%" alt="Development milestones" />
-</p>
+**Languages**  
+TypeScript · JavaScript · Python · C · C++
 
-<p align="center">
-  <a href="https://github.com/hmmlavi">Explore my GitHub profile and contribution history ↗</a>
-</p>
+**Web**  
+React · Next.js · Tailwind CSS · Node.js · Express
 
-<p align="center"><img src="./assets/divider.svg" width="70%" alt="" /></p>
+**Data & tools**  
+PostgreSQL · Git · GitHub · Vercel · OpenAI API · LangChain
 
-<p align="center">
-  <sub>✦ &nbsp;Always building something new — let's connect</sub><br/><br/>
-  <a href="mailto:lakshitsinghsaini@gmail.com"><sub>lakshitsinghsaini@gmail.com</sub></a>
-  <sub>&nbsp;·&nbsp;</sub>
-  <a href="https://lakshitss.vercel.app/"><sub>lakshitss.vercel.app</sub></a>
+---
+
+<p align="left">
+  <sub>Keep learning. Keep building. Keep exploring.</sub>
 </p>

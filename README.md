@@ -28,31 +28,41 @@
 
 <p>
   <strong>FacilityFix</strong><br/>
-  A platform to report and manage campus facility issues.<br/>
+  A web-based college facility issue reporting and tracking system built with Python, Flask, and SQLite.<br/>
+  It gives students, faculty, and staff a structured way to report problems, while coordinators can review issues, manage priorities, update statuses, and record resolutions.<br/>
+  The goal is to replace scattered, informal reports with one organized workflow and a clear history of each issue.<br/>
   <a href="https://github.com/hmmlavi/FacilityFix">↗ Repository</a>
 </p>
 
 <p>
   <strong>Sortify Desktop</strong><br/>
-  AI-assisted file naming and organization for desktop workflows.<br/>
+  A Windows desktop app that helps make filenames meaningful by reading the contents of documents, spreadsheets, presentations, and images.<br/>
+  It suggests clearer names using a local heuristic engine or an explicitly configured OpenAI-compatible AI endpoint.<br/>
+  Every suggestion can be reviewed and edited before applying; collision checks, safe batch renaming, local history, and undo help keep file changes under control.<br/>
   <a href="https://github.com/hmmlavi/sortify-desktop">↗ Repository</a>
 </p>
 
 <p>
   <strong>Veylo</strong><br/>
-  A clean, interactive web experience.<br/>
+  A calm, private habit tracker designed to help turn small daily actions into consistent routines.<br/>
+  Create and schedule habits, check in each day, follow streaks, explore completion calendars, and review weekly, monthly, and yearly progress.<br/>
+  It also includes a rule-based daily planner, multiple themes, and offline-first functionality, with personal habit data kept on the device.<br/>
   <a href="https://github.com/hmmlavi/Veylo">↗ Repository</a>
 </p>
 
 <p>
   <strong>Pustakalaya LMS</strong><br/>
-  A library management system built with a focus on practical desktop use.<br/>
+  An offline-ready library management system built with a Flask web interface and a local SQLite database.<br/>
+  It brings catalog search, physical-copy inventory, branch management, member accounts, book circulation, reservations, and fine handling into one workspace.<br/>
+  The system also supports operational reports, validated data imports, and CSV exports, with Windows packaged builds available for local use.<br/>
   <a href="https://github.com/hmmlavi/Pustakalaya-LMS">↗ Repository</a>
 </p>
 
 <p>
   <strong>SaBuddy</strong><br/>
-  A student-focused assistant project.<br/>
+  An Android app for planning and drafting social media content, from early ideas to ready-to-edit captions and scripts.<br/>
+  Organize Reels scripts, post and carousel outlines, captions, hashtags, saved content, and a content calendar in one local workspace.<br/>
+  It supports Gemini-powered generation when configured, with built-in offline generation as a fallback, plus brand settings and manually maintained analytics.<br/>
   <a href="https://github.com/hmmlavi/SaBuddy">↗ Repository</a>
 </p>
 

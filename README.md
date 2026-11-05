@@ -16,6 +16,10 @@
   <a href="mailto:lakshitsinghsaini@gmail.com">Email</a>
 </p>
 
+<p align="center">
+  <img src="https://hits.sh/github.com/hmmlavi.svg?style=flat-square&label=Visitors&color=161B22&labelColor=0D1117" alt="Profile visitor counter" />
+</p>
+
 <p align="center"><img src="./assets/divider.svg" width="70%" alt="" /></p>
 
 <p align="center"><img src="./assets/now.svg" width="96%" alt="Current focus, status and learning areas" /></p>

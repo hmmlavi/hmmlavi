@@ -1,58 +1,90 @@
-<!-- Minimal terminal-inspired profile README -->
+<!-- Profile README — terminal-inspired, spacious layout -->
 
-<h1 align="left">Hey, I'm Lakshit.</h1>
-
-<p align="left">
-  <code>CSE student</code> &nbsp; <code>Developer</code> &nbsp; <code>Curious mind</code>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hmmlavi/hmmlavi/main/assets/terminal.svg" alt="Lakshit's animated terminal banner" width="100%" />
 </p>
 
-<p align="left">
-  I enjoy turning ideas into useful software. I build web applications and desktop tools, explore new technologies, and learn by making things.
+<h2 align="center">ABOUT ME</h2>
+
+<p align="center">
+  I'm a Computer Science student who loves building things, exploring new technology, and turning random ideas into useful software.
 </p>
 
-<p align="left">
-  <a href="https://lakshitss.vercel.app/">Portfolio</a> ·
-  <a href="https://github.com/hmmlavi">GitHub</a> ·
-  <a href="https://x.com/Lakshits27">X</a> ·
-  <a href="https://www.instagram.com/lakshitsinghsaini/">Instagram</a> ·
-  <a href="mailto:lakshitsinghsaini@gmail.com">Email</a>
-</p>
-
-<p align="left">
-  <img src="https://hits.sh/github.com/hmmlavi.svg?style=flat-square&label=visitors&color=252A34&labelColor=171A21" alt="Profile visitors" />
+<p align="center">
+  <strong>Web Development · Desktop Software · AI · Creative Experiments</strong>
 </p>
 
 ---
 
-### `~/currently`
+<h2 align="center">WHAT I'M UP TO</h2>
 
-- Building projects that solve practical problems.
-- Exploring full-stack development, AI-powered tools and software engineering.
-- Learning something new with every build.
-
-### `~/projects`
-
-| Project | Description |
-|:--|:--|
-| [FacilityFix](https://github.com/hmmlavi/FacilityFix) | A platform for reporting and managing campus facility issues. |
-| [SaBuddy](https://github.com/hmmlavi/SaBuddy) | A student-focused assistant project. |
-| [Veylo](https://github.com/hmmlavi/Veylo) | A focused web experience with a clean, interactive interface. |
-| [Sortify Desktop](https://github.com/hmmlavi/sortify-desktop) | AI-assisted file naming and organization for desktop workflows. |
-| [Pustakalaya LMS](https://github.com/hmmlavi/Pustakalaya-LMS) | A library management system with desktop distribution and tests. |
-
-### `~/toolkit`
-
-**Languages**  
-TypeScript · JavaScript · Python · C · C++
-
-**Web**  
-React · Next.js · Tailwind CSS · Node.js · Express
-
-**Data & tools**  
-PostgreSQL · Git · GitHub · Vercel · OpenAI API · LangChain
+- Building practical projects and experimenting with new ideas.
+- Exploring full-stack development and AI-powered tools.
+- Getting better at writing clean, reliable software.
 
 ---
 
-<p align="left">
-  <sub>Keep learning. Keep building. Keep exploring.</sub>
+<h2 align="center">SELECTED PROJECTS</h2>
+
+<p>
+  <strong>FacilityFix</strong><br/>
+  A platform to report and manage campus facility issues.<br/>
+  <a href="https://github.com/hmmlavi/FacilityFix">↗ Repository</a>
+</p>
+
+<p>
+  <strong>Sortify Desktop</strong><br/>
+  AI-assisted file naming and organization for desktop workflows.<br/>
+  <a href="https://github.com/hmmlavi/sortify-desktop">↗ Repository</a>
+</p>
+
+<p>
+  <strong>Veylo</strong><br/>
+  A clean, interactive web experience.<br/>
+  <a href="https://github.com/hmmlavi/Veylo">↗ Repository</a>
+</p>
+
+<p>
+  <strong>Pustakalaya LMS</strong><br/>
+  A library management system built with a focus on practical desktop use.<br/>
+  <a href="https://github.com/hmmlavi/Pustakalaya-LMS">↗ Repository</a>
+</p>
+
+<p>
+  <strong>SaBuddy</strong><br/>
+  A student-focused assistant project.<br/>
+  <a href="https://github.com/hmmlavi/SaBuddy">↗ Repository</a>
+</p>
+
+---
+
+<h2 align="center">TECH I WORK WITH</h2>
+
+<p align="center">
+  <strong>LANGUAGES</strong><br/>
+  TypeScript · JavaScript · Python · C · C++
+</p>
+
+<p align="center">
+  <strong>DEVELOPMENT</strong><br/>
+  React · Next.js · Tailwind CSS · Node.js · Express
+</p>
+
+<p align="center">
+  <strong>TOOLS & DATA</strong><br/>
+  PostgreSQL · Git · GitHub · Vercel · OpenAI API · LangChain
+</p>
+
+---
+
+<p align="center">
+  <a href="https://lakshitss.vercel.app/">PORTFOLIO</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/hmmlavi">GITHUB</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:lakshitsinghsaini@gmail.com">EMAIL</a>
+</p>
+
+<p align="center">
+  <sub>BUILD · BREAK · LEARN · REPEAT</sub>
 </p>

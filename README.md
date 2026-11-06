@@ -14,60 +14,39 @@ I have plenty of ideas I'd love to bring to life. Someday, I want to build produ
 
 ## **some things i built**
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/hmmlavi/sortify-desktop">
-        <img src="https://raw.githubusercontent.com/hmmlavi/sortify-desktop/main/docs/assets/screenshots/workspace-scanned.png" width="100%" alt="Sortify Desktop workspace"/>
-      </a>
-      <h3>Sortify Desktop</h3>
-      <p>A Windows desktop app that helps organise files without the usual manual sorting. It scans file contents and suggests meaningful names, so folders are easier to manage.</p>
-      <p>You can review suggestions before applying them, inspect file details, and undo changes when needed.</p>
-      <a href="https://github.com/hmmlavi/sortify-desktop">repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/hmmlavi/FacilityFix">
-        <img src="https://raw.githubusercontent.com/hmmlavi/FacilityFix/main/screenshots/02-student-dashboard.png" width="100%" alt="FacilityFix student dashboard"/>
-      </a>
-      <h3>FacilityFix</h3>
-      <p>A campus facility issue reporting system where students can report problems instead of having to chase them manually.</p>
-      <p>It gives coordinators a place to review reports, manage their status, and keep track of issues through to resolution.</p>
-      <a href="https://github.com/hmmlavi/FacilityFix">repository ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/hmmlavi/Pustakalaya-LMS">
-        <img src="https://raw.githubusercontent.com/hmmlavi/Pustakalaya-LMS/main/docs/screenshots/dashboard.jpg" width="100%" alt="Pustakalaya LMS dashboard"/>
-      </a>
-      <h3>Pustakalaya LMS</h3>
-      <p>A library management system designed to bring everyday library work into one place. It keeps track of books, copies, members, and circulation.</p>
-      <p>It also covers reservations, fines, and reports, with a local-first setup for managing library records.</p>
-      <a href="https://github.com/hmmlavi/Pustakalaya-LMS">repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/hmmlavi/Veylo">
-        <img src="https://raw.githubusercontent.com/hmmlavi/Veylo/main/screenshots/today.png" width="100%" alt="Veylo Today screen"/>
-      </a>
-      <h3>Veylo</h3>
-      <p>A habit tracker built to make daily routines easier to follow. It brings habits, planning, and progress into a simple personal space.</p>
-      <p>The focus is on keeping things straightforward and making it easy to see how you're doing over time.</p>
-      <a href="https://github.com/hmmlavi/Veylo">repository ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>SaBuddy</h3>
-      <p>An Android app for organising social media content, from early ideas to captions and scripts. It helps keep content planning in one workspace.</p>
-      <p>It includes calendar and saved-content workflows, with optional Gemini support for AI-assisted creation.</p>
-      <a href="https://github.com/hmmlavi/SaBuddy">repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>more soon...</h3>
-      <p>There are always a few ideas in progress. I'll add them here as they turn into something worth sharing.</p>
-    </td>
-  </tr>
-</table>
+### [Sortify Desktop](https://github.com/hmmlavi/sortify-desktop)
+
+A Windows desktop app that helps organise files without the usual manual sorting. It scans file contents and suggests meaningful names, so folders are easier to manage.
+
+You can review suggestions before applying them, inspect file details, and undo changes when needed.
+
+### [FacilityFix](https://github.com/hmmlavi/FacilityFix)
+
+A campus facility issue reporting system where students can report problems instead of having to chase them manually.
+
+It gives coordinators a place to review reports, manage their status, and keep track of issues through to resolution.
+
+### [Pustakalaya LMS](https://github.com/hmmlavi/Pustakalaya-LMS)
+
+A library management system designed to bring everyday library work into one place. It keeps track of books, copies, members, and circulation.
+
+It also covers reservations, fines, and reports, with a local-first setup for managing library records.
+
+### [Veylo](https://github.com/hmmlavi/Veylo)
+
+A habit tracker built to make daily routines easier to follow. It brings habits, planning, and progress into a simple personal space.
+
+The focus is on keeping things straightforward and making it easy to see how you're doing over time.
+
+### [SaBuddy](https://github.com/hmmlavi/SaBuddy)
+
+An Android app for organising social media content, from early ideas to captions and scripts. It helps keep content planning in one workspace.
+
+It includes calendar and saved-content workflows, with optional Gemini support for AI-assisted creation.
+
+### more soon...
+
+There are always a few ideas in progress. I'll add them here as they turn into something worth sharing.
 
 ---
 

@@ -1,4 +1,4 @@
-**hi, I'm Lakshit Singh :)**
+**Hi, I'm Lakshit Singh :)**
 
 I'm a **Computer Science student from India** who loves building things and exploring what technology can do. I often find myself going down rabbit holes, experimenting with new ideas, or starting a project just because something caught my attention.
 
@@ -6,13 +6,13 @@ I'm interested in a lot of things, especially **AI, desktop applications, develo
 
 What excites me most is taking an idea that exists only in my head and slowly turning it into something real. I enjoy every part of that process, from figuring out what to build and how it should work to writing the code and seeing everything come together.
 
-And it's not always about technology. I spend my time exploring **gaming, space, music, and psychology** too. I like learning about things that make me curious, even when they have nothing to do with what I'm building.
+And it's not always about technology. I spend my time exploring **gaming, space, music, and psychology**, too. I like learning about things that make me curious, even when they have nothing to do with what I'm building.
 
 I have plenty of ideas I'd love to bring to life. Someday, I want to build products that people around the world genuinely enjoy using. Until then, you'll probably find me working on something new, experimenting with an idea, or getting curious about something completely different.
 
 ---
 
-## **some things i built**
+## Some Things I've Built
 
 ### [Sortify Desktop](https://github.com/hmmlavi/sortify-desktop)
 
@@ -44,18 +44,18 @@ An Android app for organising social media content, from early ideas to captions
 
 It includes calendar and saved-content workflows, with optional Gemini support for AI-assisted creation.
 
-### more soon...
+### More Coming Soon
 
 There are always a few ideas in progress. I'll add them here as they turn into something worth sharing.
 
 ---
 
-## **tools i trade with**
+## Tools I Work With
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Language</h3>
+      <h3>Languages</h3>
       <img src="https://img.shields.io/badge/Python-18151F?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
       <img src="https://img.shields.io/badge/C-18151F?style=flat-square&logo=c&logoColor=A8B9CC" alt="C"/>
       <img src="https://img.shields.io/badge/C%2B%2B-18151F?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++"/>
@@ -67,7 +67,7 @@ There are always a few ideas in progress. I'll add them here as they turn into s
       <img src="https://img.shields.io/badge/Bash-18151F?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
     </td>
     <td width="33%" valign="top">
-      <h3>Framework / UI</h3>
+      <h3>Frameworks &amp; UI</h3>
       <img src="https://img.shields.io/badge/React-18151F?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
       <img src="https://img.shields.io/badge/Next.js-18151F?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
       <img src="https://img.shields.io/badge/Tailwind-18151F?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
@@ -76,7 +76,7 @@ There are always a few ideas in progress. I'll add them here as they turn into s
       <img src="https://img.shields.io/badge/Flask-18151F?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
     </td>
     <td width="34%" valign="top">
-      <h3>AI / ML</h3>
+      <h3>AI &amp; ML</h3>
       <img src="https://img.shields.io/badge/OpenAI%20API-18151F?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
       <img src="https://img.shields.io/badge/LangChain-18151F?style=flat-square&logo=langchain&logoColor=8B5CF6" alt="LangChain"/>
       <img src="https://img.shields.io/badge/Claude-18151F?style=flat-square&logo=anthropic&logoColor=D97757" alt="Claude"/>
@@ -86,7 +86,7 @@ There are always a few ideas in progress. I'll add them here as they turn into s
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h3>Database</h3>
+      <h3>Databases</h3>
       <img src="https://img.shields.io/badge/PostgreSQL-18151F?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/SQLite-18151F?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite"/>
       <img src="https://img.shields.io/badge/MongoDB-18151F?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
@@ -94,7 +94,7 @@ There are always a few ideas in progress. I'll add them here as they turn into s
       <img src="https://img.shields.io/badge/Firebase-18151F?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
     </td>
     <td width="33%" valign="top">
-      <h3>Tools &amp; Platform</h3>
+      <h3>Tools &amp; Platforms</h3>
       <img src="https://img.shields.io/badge/Git-18151F?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
       <img src="https://img.shields.io/badge/GitHub-18151F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
       <img src="https://img.shields.io/badge/GitHub%20Pages-18151F?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages"/>

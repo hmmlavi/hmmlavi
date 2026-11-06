@@ -1,5 +1,7 @@
+<h1 align="center">Lakshit Singh Saini</h1>
+
 <p align="center">
-  <img src="./profile-header.svg" alt="Lakshit Singh Saini" width="100%" />
+  <i>Computer Science student · Developer · Curious mind</i>
 </p>
 
 <p align="center">
@@ -12,7 +14,7 @@
 
 ---
 
-### A little about me
+### About
 
 I'm a **Computer Science student from India** who enjoys building things, exploring new ideas, and figuring out how technology can make them real.
 
@@ -24,7 +26,7 @@ Outside of code, you'll find me exploring **space, gaming, music, and psychology
 
 A few things I've been working on:
 
-| Project | What it is |
+| Project | Description |
 |:--|:--|
 | [**FacilityFix**](https://github.com/hmmlavi/FacilityFix) | Facility issue reporting and management system |
 | [**Sortify Desktop**](https://github.com/hmmlavi/sortify-desktop) | Desktop file organisation and intelligent renaming |
@@ -34,8 +36,9 @@ A few things I've been working on:
 
 ### Tools of the trade
 
-**Languages**
-
+<details open>
+<summary><strong>Languages</strong></summary>
+<br>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="Python" />&nbsp;Python&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="24" alt="C" />&nbsp;C&nbsp;&nbsp;
@@ -47,9 +50,11 @@ A few things I've been working on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="24" alt="Bash" />&nbsp;Bash&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/database.svg" height="22" alt="SQL" />&nbsp;SQL
 </p>
+</details>
 
-**Frameworks & libraries**
-
+<details open>
+<summary><strong>Frameworks & libraries</strong></summary>
+<br>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" alt="React" />&nbsp;React&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="24" alt="Next.js" />&nbsp;Next.js&nbsp;&nbsp;
@@ -58,9 +63,11 @@ A few things I've been working on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="24" alt="Express" />&nbsp;Express&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="24" alt="Flask" />&nbsp;Flask
 </p>
+</details>
 
-**Databases & backend**
-
+<details open>
+<summary><strong>Databases & backend</strong></summary>
+<br>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="24" alt="PostgreSQL" />&nbsp;PostgreSQL&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="24" alt="SQLite" />&nbsp;SQLite&nbsp;&nbsp;
@@ -68,16 +75,22 @@ A few things I've been working on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="24" alt="Supabase" />&nbsp;Supabase&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="24" alt="Firebase" />&nbsp;Firebase
 </p>
+</details>
 
-**AI & development tools**
-
+<details open>
+<summary><strong>AI tools</strong></summary>
+<br>
 <p>
   <img src="https://cdn.simpleicons.org/anthropic" height="23" alt="Claude" />&nbsp;Claude&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlegemini" height="23" alt="Gemini" />&nbsp;Gemini&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/openai" height="23" alt="OpenAI Codex" />&nbsp;Codex&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" height="23" alt="LangChain" />&nbsp;LangChain
 </p>
+</details>
 
+<details open>
+<summary><strong>Tools & platforms</strong></summary>
+<br>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="24" alt="VS Code" />&nbsp;VS Code&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" alt="Git" />&nbsp;Git&nbsp;&nbsp;
@@ -86,8 +99,7 @@ A few things I've been working on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" alt="Figma" />&nbsp;Figma&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="24" alt="Vercel" />&nbsp;Vercel
 </p>
-
-*Interested in LLM integration, prompt engineering, and AI-assisted development.*
+</details>
 
 ---
 

@@ -18,7 +18,9 @@ A few things I've been working on:
 - [**Pustakalaya LMS**](https://github.com/hmmlavi/Pustakalaya-LMS): A library management system.
 - [**SaBuddy**](https://github.com/hmmlavi/SaBuddy): An AI-assisted personal workspace.
 
-<h3><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/terminal.svg" width="18" height="18" align="absmiddle" />&nbsp;Tools of the Trade</h3>
+<p align="left">
+  <img src="./tools-terminal.svg" alt="Tools of the Trade terminal banner" width="100%" />
+</p>
 
 **Languages:** Python, C, C++, JavaScript, TypeScript
 

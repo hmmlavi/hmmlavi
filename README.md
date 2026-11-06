@@ -1,54 +1,16 @@
-<a id="top"></a>
+# Lakshit Singh Saini
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/hmmlavi/hmmlavi/main/assets/wordmark.svg" width="125" alt="lavi"/>
-</p>
+Computer Science student · Developer
 
-<p align="right">
-  <a href="#top">Home</a> &nbsp;&nbsp;
-  <a href="#about">About</a> &nbsp;&nbsp;
-  <a href="#projects">Projects</a> &nbsp;&nbsp;
-  <a href="#tools">Skills</a> &nbsp;&nbsp;
-  <a href="#contact">Contact</a>
-</p>
+I’m a Computer Science student based in Gujarat, India. I enjoy taking an idea, figuring out how it could work, and building it into something people can actually use.
 
-<br/>
+Most of my time goes into exploring AI, desktop applications, developer tools, and product development. I started PocketMC and lead DS Labs, and I’m always interested in learning how good software is designed and built.
 
-<h1 align="center">Hey! , I am <span>Lakshit</span></h1>
-<h2 align="center">Computer Science Student · Developer</h2>
+Away from coding, I spend time exploring psychology, gaming, and entrepreneurship. I’m also curious about software architecture and what makes a product useful to people around the world.
 
-<p align="center">
-  I build useful digital products, explore new technologies, and turn ideas into working projects.
-</p>
+---
 
-<p align="center">
-  <a href="https://lakshitss.vercel.app/"><img src="https://img.shields.io/badge/View%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  &nbsp;
-  <a href="https://x.com/Lakshits27"><img src="https://img.shields.io/badge/Connect%20on%20X-171717?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-</p>
-
-<br/>
-
-<a id="about"></a>
-<h2>About Me</h2>
-
-<table>
-  <tr>
-    <td width="62%" valign="middle">
-      <p>I'm a Computer Science student from India who enjoys building things, exploring new ideas, and learning how technology works.</p>
-      <p>I'm interested in AI, developer tools, desktop applications, web development, and product building. I like moving between different fields and learning by experimenting.</p>
-      <p>Outside of code, you'll find me exploring space, gaming, music, and psychology. I'm curious by nature and don't want to limit that curiosity to one thing.</p>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/hmmlavi/hmmlavi/main/assets/about-cat.svg" width="260" alt="Purple pixel cat illustration"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<a id="tools"></a>
-<h2>Skills &amp; Technologies</h2>
+## Skills & Technologies
 
 <table>
   <tr>
@@ -78,7 +40,7 @@
       <img src="https://img.shields.io/badge/Firebase-18151F?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
     </td>
     <td width="34%" valign="top">
-      <h3>Tools &amp; Platforms</h3>
+      <h3>Tools & Platforms</h3>
       <img src="https://img.shields.io/badge/Git-18151F?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
       <img src="https://img.shields.io/badge/GitHub-18151F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
       <img src="https://img.shields.io/badge/GitHub%20Pages-18151F?style=flat-square&logo=githubpages&logoColor=8B5CF6" alt="GitHub Pages"/>
@@ -86,68 +48,67 @@
       <img src="https://img.shields.io/badge/Vercel-18151F?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
       <img src="https://img.shields.io/badge/Claude-18151F?style=flat-square&logo=anthropic&logoColor=D97757" alt="Claude"/>
       <img src="https://img.shields.io/badge/Gemini-18151F?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini"/>
-      <img src="https://img.shields.io/badge/Codex-18151F?style=flat-square&logo=openai&logoColor=white" alt="Codex, OpenAI logo"/>
+      <img src="https://img.shields.io/badge/Codex-18151F?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
       <img src="https://img.shields.io/badge/VS%20Code-18151F?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-<a id="projects"></a>
-<h2 align="center">My Projects</h2>
-<p align="center">A collection of things I've worked on, from desktop tools to web applications.</p>
+## Projects
+
+A few things I've been working on. Each one started with a problem or an idea I wanted to explore.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/hmmlavi/FacilityFix"><img src="https://raw.githubusercontent.com/hmmlavi/hmmlavi/main/assets/facilityfix-cover.svg" width="100%" alt="FacilityFix project cover"/></a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/hmmlavi/FacilityFix">
+        <img src="https://raw.githubusercontent.com/hmmlavi/FacilityFix/main/screenshots/02-student-dashboard.png" width="100%" alt="FacilityFix reporter dashboard"/>
+      </a>
       <h3>FacilityFix</h3>
-      <p>A facility issue reporting and management system.</p>
-      <a href="https://github.com/hmmlavi/FacilityFix">View Details ↗</a>
+      <p>A web app for reporting and tracking college facility issues. It gives students and staff one place to submit a problem, follow its progress, and see when it has been resolved.</p>
+      <a href="https://github.com/hmmlavi/FacilityFix">View repository</a>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/hmmlavi/sortify-desktop"><img src="https://raw.githubusercontent.com/hmmlavi/hmmlavi/main/assets/sortify-cover.svg" width="100%" alt="Sortify Desktop project cover"/></a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/hmmlavi/sortify-desktop">
+        <img src="https://raw.githubusercontent.com/hmmlavi/sortify-desktop/main/docs/assets/screenshots/workspace-scanned.png" width="100%" alt="Sortify Desktop workspace"/>
+      </a>
       <h3>Sortify Desktop</h3>
-      <p>A desktop file organisation and intelligent renaming tool.</p>
-      <a href="https://github.com/hmmlavi/sortify-desktop">View Details ↗</a>
-    </td>
-    <td width="34%" valign="top">
-      <a href="https://github.com/hmmlavi/Veylo"><img src="https://raw.githubusercontent.com/hmmlavi/hmmlavi/main/assets/veylo-cover.svg" width="100%" alt="Veylo project cover"/></a>
-      <h3>Veylo</h3>
-      <p>An offline-first habit tracking application.</p>
-      <a href="https://github.com/hmmlavi/Veylo">View Details ↗</a>
+      <p>A Windows desktop tool that looks at what's inside your files and suggests clearer names. You review every suggestion before anything is renamed, and applied changes can be undone.</p>
+      <a href="https://github.com/hmmlavi/sortify-desktop">View repository</a>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/hmmlavi/Pustakalaya-LMS"><img src="https://raw.githubusercontent.com/hmmlavi/hmmlavi/main/assets/pustakalaya-cover.svg" width="100%" alt="Pustakalaya LMS project cover"/></a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/hmmlavi/Veylo">
+        <img src="https://raw.githubusercontent.com/hmmlavi/Veylo/main/screenshots/today.png" width="100%" alt="Veylo Today screen"/>
+      </a>
+      <h3>Veylo</h3>
+      <p>A habit tracker built around keeping things simple. It helps you plan your day, keep track of habits, and review your progress, with data stored on your device.</p>
+      <a href="https://github.com/hmmlavi/Veylo">View repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/hmmlavi/Pustakalaya-LMS">
+        <img src="https://raw.githubusercontent.com/hmmlavi/Pustakalaya-LMS/main/docs/screenshots/dashboard.jpg" width="100%" alt="Pustakalaya library dashboard"/>
+      </a>
       <h3>Pustakalaya LMS</h3>
-      <p>A library management system built with Python and Flask.</p>
-      <a href="https://github.com/hmmlavi/Pustakalaya-LMS">View Details ↗</a>
+      <p>A local-first library management system for handling books, physical copies, members, borrowing, returns, reservations, and fines from one application.</p>
+      <a href="https://github.com/hmmlavi/Pustakalaya-LMS">View repository</a>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/hmmlavi/SaBuddy"><img src="https://raw.githubusercontent.com/hmmlavi/hmmlavi/main/assets/sabuddy-cover.svg" width="100%" alt="SaBuddy project cover"/></a>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>SaBuddy</h3>
-      <p>An AI-assisted personal workspace.</p>
-      <a href="https://github.com/hmmlavi/SaBuddy">View Details ↗</a>
+      <p>An Android workspace for planning social media content. It brings ideas, captions, scripts, calendars, and saved content together, with optional Gemini support and local generation.</p>
+      <a href="https://github.com/hmmlavi/SaBuddy">View repository</a>
+      <p><sub>Project screenshots aren't currently included in its repository.</sub></p>
     </td>
-    <td width="34%" valign="top">
-      <h3>More coming soon</h3>
-      <p>Always experimenting with new ideas and building things along the way.</p>
+    <td width="50%" valign="top">
+      <h3>More in progress</h3>
+      <p>I keep experimenting with ideas and learning by building. I'll add more here as projects take shape.</p>
     </td>
   </tr>
 </table>
 
-<br/>
-
-<a id="contact"></a>
-<h2 align="center">Let's Connect</h2>
-<p align="center">Have an idea, want to collaborate, or just want to say hello?</p>
-<p align="center">
-  <a href="https://lakshitss.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  &nbsp;
-  <a href="https://x.com/Lakshits27"><img src="https://img.shields.io/badge/X-171717?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-</p>
-
-<p align="center"><sub>Always learning. Always building. Always curious.</sub></p>
+<p align="center"><sub>Built one idea at a time.</sub></p>

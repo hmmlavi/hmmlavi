@@ -31,10 +31,10 @@
 <path class="bar" d="M19 1H981a18 18 0 0 1 18 18v48H1V19A18 18 0 0 1 19 1Z"/>
 <circle cx="31" cy="34" r="7" fill="#FF6B6B"/><circle cx="56" cy="34" r="7" fill="#F5C451"/><circle cx="81" cy="34" r="7" fill="#45B982"/>
 <text class="muted" x="500" y="39" text-anchor="middle" font-size="13">lakshit@github: ~/profile</text>
-<text class="green prompt" x="52" y="112">$ whoami</text>
-<text class="main title" x="52" y="163">Hi, I'm Lakshit Singh :)</text>
+<text x="52" y="112" font-size="13" fill="#C4A7FF">$ whoami</text>
+<text class="main title" x="52" y="163">Hi, I'm Lakshit :)</text>
 <path class="line" d="M52 205H948"/>
-<text class="green prompt" x="52" y="250">$ cat about.txt</text>
+<text x="52" y="250" font-size="13" fill="#C4A7FF">$ about.txt</text>
 <text class="main body" x="52" y="294">I'm a Computer Science student from India who loves building things and exploring what technology can do.</text>
 <text class="main body" x="52" y="322">I often find myself going down rabbit holes, experimenting with new ideas, or starting a project</text>
 <text class="main body" x="52" y="350">just because something caught my attention.</text>
@@ -51,5 +51,4 @@
 <text class="main body" x="52" y="738">the world genuinely enjoy using. Until then, you'll probably find me working on something new,</text>
 <text class="main body" x="52" y="766">experimenting with an idea, or getting curious about something completely different.</text>
 <path class="line" d="M52 818H948"/>
-<text class="blue" x="52" y="856" font-size="13">END OF ABOUT SECTION</text>
-</svg>
+<text x="52" y="856" font-size="13" fill="#C4A7FF">> curiosity.exe is always running</text></svg>

@@ -80,7 +80,7 @@ def terminal_svg():
 
 <path class="line" d="M52 443H948"/>
 <text class="green prompt" x="52" y="478">$ ls ./selected-work</text>
-\__PROJECT_ROWS__
+__PROJECT_ROWS__
 
 <path class="line" d="M52 968H948"/>
 <text class="green prompt" x="52" y="1001">$ cat toolkit.txt</text>

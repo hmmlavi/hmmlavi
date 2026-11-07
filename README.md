@@ -2,37 +2,9 @@
   <img src="./assets/terminal.svg" width="100%" alt="Hi, I'm Lakshit Singh — introduction and about section" />
 </p>
 
-<h2 align="center">Projects</h2>
-<p align="center">A few things I've been building.</p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Sortify Desktop</h3>
-      <p>A Windows desktop app that scans file contents, suggests meaningful names, and helps organise files with review and undo controls.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>FacilityFix</h3>
-      <p>A campus issue reporting system for students and coordinators to report, review, track, and resolve facility problems.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Pustakalaya LMS</h3>
-      <p>A local-first library management system covering books, copies, members, circulation, reservations, fines, and reports.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Veylo</h3>
-      <p>A habit tracker for organising daily routines, planning, and keeping an eye on progress over time.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>SaBuddy</h3>
-      <p>An Android social media content planner for ideas, captions, scripts, calendar planning, and saved content, with optional Gemini support.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/projects.svg" width="100%" alt="Selected projects — Sortify Desktop, FacilityFix, Pustakalaya LMS, Veylo, and SaBuddy" />
+</p>
 
 <h2 align="center">Tools of Trade</h2>
 <p align="center">The technologies and tools I use to bring ideas to life.</p>

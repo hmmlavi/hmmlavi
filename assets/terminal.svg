@@ -1,26 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" fill="none">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#111820"/><stop offset="1" stop-color="#202B35"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#86BFA5" stop-opacity="0"/><stop offset="1" stop-color="#86BFA5" stop-opacity=".8"/>
-    </linearGradient>
-    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect x="1" y="1" width="998" height="358" rx="18" fill="url(#bg)" stroke="#52616D" stroke-opacity=".65" stroke-width="2"/>
-  <path d="M1 58H999" stroke="#52616D" stroke-opacity=".55"/>
-  <circle cx="30" cy="30" r="6" fill="#F07D79"/><circle cx="52" cy="30" r="6" fill="#E7BE70"/><circle cx="74" cy="30" r="6" fill="#83B99A"/>
-  <text x="946" y="35" fill="#9BAAB5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" text-anchor="end">lakshit@workspace: ~</text>
-  <text x="946" y="112" fill="#8BC5A5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" text-anchor="end">$ whoami</text>
-  <text x="946" y="160" fill="#F1F4F5" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700" text-anchor="end">Hey, I'm Lakshit.</text>
-  <text x="946" y="195" fill="#AEBBC4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" text-anchor="end">CSE student  /  Developer  /  Curious mind</text>
-  <path d="M54 220H946" stroke="url(#line)" stroke-width="1.5"/>
-  <text x="946" y="258" fill="#8BC5A5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" text-anchor="end">$ cat about.txt</text>
-  <text x="946" y="291" fill="#D6DEE3" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="end">Turning ideas into useful software. Learning by building.</text>
-  <text x="946" y="326" fill="#8BC5A5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" text-anchor="end">$ <tspan fill="#F1F4F5"> </tspan><tspan class="cursor" filter="url(#glow)">▌</tspan></text>
-  <circle cx="920" cy="105" r="3" fill="#8BC5A5" opacity=".7"/><circle cx="944" cy="129" r="2" fill="#8BC5A5" opacity=".45"/>
-  <style>@keyframes blink{0%,48%{opacity:1}49%,100%{opacity:0}} .cursor{animation:blink 1.1s steps(2,start) infinite}</style>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1120" viewBox="0 0 1000 1120" role="img" aria-labelledby="title desc">
+<title id="title">Lakshit Singh Saini — Developer profile</title>
+<desc id="desc">A terminal-style profile with about, selected projects, tools, interests and links.</desc>
+<defs>
+  <linearGradient id="lightBg" x1="0" y1="0" x2="1000" y2="1120"><stop stop-color="#F8FAFC"/><stop offset="1" stop-color="#E9EEF4"/></linearGradient>
+  <linearGradient id="darkBg" x1="0" y1="0" x2="1000" y2="1120"><stop stop-color="#161B22"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+    .window { fill: url(#lightBg); stroke: #D0D7DE; }
+    .bar { fill: #E8EDF2; }
+    .main { fill: #17212B; }
+    .muted { fill: #657383; }
+    .green { fill: #16845B; }
+    .blue { fill: #2766A5; }
+    .purple { fill: #8256B3; }
+    .line { stroke: #D0D7DE; }
+    .title { font-size: 31px; font-weight: 700; letter-spacing: -.8px; }
+    .subtitle { font-size: 15px; }
+    .body { font-size: 15px; }
+    .project { font-size: 14px; font-weight: 700; }
+    .desc { font-size: 12px; }
+    .link { font-size: 11px; }
+    .chip { font-size: 13px; }
+    .prompt { font-size: 14px; font-weight: 700; }
+    @media(prefers-color-scheme:dark) {
+      .window { fill: url(#darkBg); stroke: #30363D; }
+      .bar { fill: #21262D; }
+      .main { fill: #E6EDF3; }
+      .muted { fill: #9AA7B4; }
+      .green { fill: #3FB98A; }
+      .blue { fill: #79B8FF; }
+      .purple { fill: #D2A8FF; }
+      .line { stroke: #30363D; }
+    }
+  </style>
+</defs>
+<rect class="window" x="1" y="1" width="998" height="1118" rx="18"/>
+<path class="bar" d="M19 1H981a18 18 0 0 1 18 18v48H1V19A18 18 0 0 1 19 1Z"/>
+<circle cx="31" cy="34" r="7" fill="#FF6B6B"/><circle cx="56" cy="34" r="7" fill="#F5C451"/><circle cx="81" cy="34" r="7" fill="#45B982"/>
+<text class="muted" x="500" y="39" text-anchor="middle" font-size="13">lakshit@github: ~/profile</text>
+
+<text class="green prompt" x="52" y="111">$ whoami</text>
+<text class="main title" x="52" y="157">Lakshit Singh Saini</text>
+<text class="blue subtitle" x="52" y="188">Computer Science student · Developer · Curious mind</text>
+<text class="muted body" x="52" y="225">India — exploring ideas, building useful software, and learning how things work.</text>
+
+<path class="line" d="M52 252H948"/>
+<text class="green prompt" x="52" y="286">$ cat about.txt</text>
+<text class="main body" x="52" y="321">I enjoy exploring different fields and turning ideas into useful software.</text>
+<text class="main body" x="52" y="348">Interested in AI, desktop applications, developer tools, web development,</text>
+<text class="main body" x="52" y="375">and product development — without limiting myself to one area.</text>
+<text class="muted body" x="52" y="414">Beyond tech: gaming, space, music, psychology, and whatever sparks curiosity.</text>
+
+<path class="line" d="M52 443H948"/>
+<text class="green prompt" x="52" y="478">$ ls ./selected-work</text>
+<text class="project" x="76" y="570">SORTIFY DESKTOP</text><text class="muted desc" x="300" y="570">Windows file organiser with smart naming, review and undo workflows.</text><text class="link" x="76" y="595">github.com/hmmlavi/sortify-desktop</text>
+<text class="project" x="76" y="646">FACILITYFIX</text><text class="muted desc" x="300" y="646">Campus issue reporting and resolution management.</text><text class="link" x="76" y="671">github.com/hmmlavi/FacilityFix</text>
+<text class="project" x="76" y="722">PUSTAKALAYA LMS</text><text class="muted desc" x="300" y="722">Library management for books, members, circulation and reports.</text><text class="link" x="76" y="747">github.com/hmmlavi/Pustakalaya-LMS</text>
+<text class="project" x="76" y="798">VEYLO</text><text class="muted desc" x="300" y="798">A focused space for daily habits, routines and personal progress.</text><text class="link" x="76" y="823">github.com/hmmlavi/Veylo</text>
+<text class="project" x="76" y="874">SABUDDY</text><text class="muted desc" x="300" y="874">Organise social content ideas, captions, scripts and plans.</text><text class="link" x="76" y="899">github.com/hmmlavi/SaBuddy</text>
+
+<path class="line" d="M52 968H948"/>
+<text class="green prompt" x="52" y="1001">$ cat toolkit.txt</text>
+<text class="main chip" x="52" y="1032">Python · C · C++ · TypeScript · React · Next.js · Tailwind · Node.js · Express</text>
+<text class="main chip" x="52" y="1057">PostgreSQL · SQLite · MongoDB · Supabase · Firebase · Git · GitHub · Vercel · Figma</text>
+<text class="purple chip" x="52" y="1082">Exploring: AI engineering · systems programming · DSA · system design</text>
 </svg>

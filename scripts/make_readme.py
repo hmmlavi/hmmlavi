@@ -6,53 +6,94 @@ ASSETS = ROOT / "assets"
 ASSETS.mkdir(exist_ok=True)
 
 PROJECTS = [
-    ("SORTIFY DESKTOP", "Windows file organiser with smart naming, review and undo workflows.", "Python · Desktop", "https://github.com/hmmlavi/sortify-desktop", "01"),
-    ("FACILITYFIX", "Campus issue reporting and resolution management for students and coordinators.", "Flask · Web App", "https://github.com/hmmlavi/FacilityFix", "02"),
-    ("PUSTAKALAYA LMS", "Library management for books, members, circulation, reservations and reports.", "Python · Flask", "https://github.com/hmmlavi/Pustakalaya-LMS", "03"),
-    ("VEYLO", "A focused space for daily habits, routines and personal progress.", "Web App · Productivity", "https://github.com/hmmlavi/Veylo", "04"),
-    ("SABUDDY", "Organise social content ideas, captions, scripts and publishing plans.", "Android · App", "https://github.com/hmmlavi/SaBuddy", "05"),
+    ("SORTIFY DESKTOP", "Windows file organiser with smart naming, review and undo workflows.", "github.com/hmmlavi/sortify-desktop"),
+    ("FACILITYFIX", "Campus issue reporting and resolution management.", "github.com/hmmlavi/FacilityFix"),
+    ("PUSTAKALAYA LMS", "Library management for books, members, circulation and reports.", "github.com/hmmlavi/Pustakalaya-LMS"),
+    ("VEYLO", "A focused space for daily habits, routines and personal progress.", "github.com/hmmlavi/Veylo"),
+    ("SABUDDY", "Organise social content ideas, captions, scripts and plans.", "github.com/hmmlavi/SaBuddy"),
 ]
 
 
-def make_card(project):
-    title, description, stack, url, number = project
-    title, description, stack = map(escape, (title, description, stack))
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="440" height="190" viewBox="0 0 440 190" fill="none">
+def terminal_svg():
+    project_rows = []
+    y = 570
+    for name, description, url in PROJECTS:
+        project_rows.append(
+            f'<text class="project" x="76" y="{y}">{escape(name)}</text>'
+            f'<text class="muted desc" x="300" y="{y}">{escape(description)}</text>'
+            f'<text class="link" x="76" y="{y + 25}">{escape(url)}</text>'
+        )
+        y += 76
+
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1120" viewBox="0 0 1000 1120" role="img" aria-labelledby="title desc">
+<title id="title">Lakshit Singh Saini — Developer profile</title>
+<desc id="desc">A terminal-style profile with about, selected projects, tools, interests and links.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="440" y2="190"><stop stop-color="#F6F8FA"/><stop offset="1" stop-color="#EAEFF4"/></linearGradient>
-  <linearGradient id="dark" x1="0" y1="0" x2="440" y2="190"><stop stop-color="#161B22"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+  <linearGradient id="lightBg" x1="0" y1="0" x2="1000" y2="1120"><stop stop-color="#F8FAFC"/><stop offset="1" stop-color="#E9EEF4"/></linearGradient>
+  <linearGradient id="darkBg" x1="0" y1="0" x2="1000" y2="1120"><stop stop-color="#161B22"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
   <style>
-    .k{{font:600 10px Arial,sans-serif;letter-spacing:2px;fill:#66717D}}
-    .t{{font:700 17px Arial,sans-serif;fill:#17212B}}
-    .d{{font:400 12px Arial,sans-serif;fill:#596675}}
-    .s{{font:500 10px monospace;fill:#52616F}}
-    @media(prefers-color-scheme:dark){{.panel{{fill:url(#dark);stroke:#30363D}}.k{{fill:#8B949E}}.t{{fill:#E6EDF3}}.d{{fill:#AAB4BE}}.s{{fill:#8B949E}}}}
+    text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+    .window { fill: url(#lightBg); stroke: #D0D7DE; }
+    .bar { fill: #E8EDF2; }
+    .main { fill: #17212B; }
+    .muted { fill: #657383; }
+    .green { fill: #16845B; }
+    .blue { fill: #2766A5; }
+    .purple { fill: #8256B3; }
+    .line { stroke: #D0D7DE; }
+    .title { font-size: 31px; font-weight: 700; letter-spacing: -.8px; }
+    .subtitle { font-size: 15px; }
+    .body { font-size: 15px; }
+    .project { font-size: 14px; font-weight: 700; }
+    .desc { font-size: 12px; }
+    .link { font-size: 11px; }
+    .chip { font-size: 13px; }
+    .prompt { font-size: 14px; font-weight: 700; }
+    @media(prefers-color-scheme:dark) {
+      .window { fill: url(#darkBg); stroke: #30363D; }
+      .bar { fill: #21262D; }
+      .main { fill: #E6EDF3; }
+      .muted { fill: #9AA7B4; }
+      .green { fill: #3FB98A; }
+      .blue { fill: #79B8FF; }
+      .purple { fill: #D2A8FF; }
+      .line { stroke: #30363D; }
+    }
   </style>
 </defs>
-<rect class="panel" x="1" y="1" width="438" height="188" rx="13" fill="url(#bg)" stroke="#D7DEE6"/>
-<text class="k" x="24" y="29">SELECTED PROJECT / {number}</text>
-<text class="t" x="24" y="69">{title}</text>
-<text class="d" x="24" y="101">{description}</text>
-<path d="M24 133H416" stroke="#8996A3" stroke-opacity=".25"/>
-<text class="s" x="24" y="158">{stack}</text>
-<text class="k" x="416" y="158" text-anchor="end">OPEN REPOSITORY ↗</text>
+<rect class="window" x="1" y="1" width="998" height="1118" rx="18"/>
+<path class="bar" d="M19 1H981a18 18 0 0 1 18 18v48H1V19A18 18 0 0 1 19 1Z"/>
+<circle cx="31" cy="34" r="7" fill="#FF6B6B"/><circle cx="56" cy="34" r="7" fill="#F5C451"/><circle cx="81" cy="34" r="7" fill="#45B982"/>
+<text class="muted" x="500" y="39" text-anchor="middle" font-size="13">lakshit@github: ~/profile</text>
+
+<text class="green prompt" x="52" y="111">$ whoami</text>
+<text class="main title" x="52" y="157">Lakshit Singh Saini</text>
+<text class="blue subtitle" x="52" y="188">Computer Science student · Developer · Curious mind</text>
+<text class="muted body" x="52" y="225">India — exploring ideas, building useful software, and learning how things work.</text>
+
+<path class="line" d="M52 252H948"/>
+<text class="green prompt" x="52" y="286">$ cat about.txt</text>
+<text class="main body" x="52" y="321">I enjoy exploring different fields and turning ideas into useful software.</text>
+<text class="main body" x="52" y="348">Interested in AI, desktop applications, developer tools, web development,</text>
+<text class="main body" x="52" y="375">and product development — without limiting myself to one area.</text>
+<text class="muted body" x="52" y="414">Beyond tech: gaming, space, music, psychology, and whatever sparks curiosity.</text>
+
+<path class="line" d="M52 443H948"/>
+<text class="green prompt" x="52" y="478">$ ls ./selected-work</text>
+\${project_rows.join("\n")}
+
+<path class="line" d="M52 968H948"/>
+<text class="green prompt" x="52" y="1001">$ cat toolkit.txt</text>
+<text class="main chip" x="52" y="1032">Python · C · C++ · TypeScript · React · Next.js · Tailwind · Node.js · Express</text>
+<text class="main chip" x="52" y="1057">PostgreSQL · SQLite · MongoDB · Supabase · Firebase · Git · GitHub · Vercel · Figma</text>
+<text class="purple chip" x="52" y="1082">Exploring: AI engineering · systems programming · DSA · system design</text>
 </svg>'''
 
 
 def build():
-    cards = []
-    for project in PROJECTS:
-        title, description, stack, url, number = project
-        filename = title.lower().replace(" ", "-") + ".svg"
-        (ASSETS / filename).write_text(make_card(project), encoding="utf-8")
-        cards.append(
-            f'<a href="{url}" title="{title}"><img src="./assets/{filename}" '
-            f'width="440" alt="{title}: {description}" /></a>'
-        )
-
-    project_grid = f"{cards[0]}{cards[1]}<br />{cards[2]}{cards[3]}<br />{cards[4]}"
-    readme = f'''<p align="center">
-  <img src="./assets/terminal.svg" width="900" alt="Lakshit — CSE student, developer and curious mind" />
+    (ASSETS / "terminal.svg").write_text(terminal_svg(), encoding="utf-8")
+    readme = '''<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Lakshit Singh Saini — developer profile, selected work, tools and interests" />
 </p>
 
 <p align="center">
@@ -60,38 +101,9 @@ def build():
   <a href="https://lakshitss.vercel.app/">Portfolio</a> ·
   <a href="https://github.com/hmmlavi?tab=repositories">Repositories</a>
 </p>
-
-<p align="center"><img src="./assets/activity.svg" width="400" alt="Explore, build, improve" /></p>
-
-## Selected work
-
-<p align="center">
-  {project_grid}
-</p>
-
-## A little about me
-
-I'm a Computer Science student from India who enjoys exploring different fields and turning ideas into useful software. I'm interested in **AI, desktop applications, developer tools, web development, and product development** — but I don't want to limit myself to one area.
-
-Outside technology, I'm usually exploring **gaming, space, music, or psychology**. I like learning how things work, why they work, and what I can make from that curiosity.
-
-## Tools I use
-
-<p align="center">
-  <img src="./assets/stack-core.svg" width="400" alt="Core stack" />
-  <img src="./assets/stack-more.svg" width="400" alt="Tools and platforms" />
-</p>
-
-## What I'm exploring
-
-<p align="center"><img src="./assets/learning.svg" width="400" alt="Current learning interests" /></p>
-
----
-
-<p align="center"><sub>Still exploring. Still building. Always curious.</sub></p>
 '''
     (ROOT / "README.md").write_text(readme, encoding="utf-8")
-    print("README.md and project cards generated.")
+    print("Generated the complete terminal-style profile README.")
 
 
 if __name__ == "__main__":

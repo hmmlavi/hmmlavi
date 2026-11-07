@@ -10,8 +10,8 @@
     .bar { fill: #E8EDF2; }
     .main { fill: #17212B; }
     .muted { fill: #657383; }
-    .prompt { fill: #16845B; font-weight: 700; }
-    .accent { fill: #8B65D6; font-weight: 700; }
+    .command { fill: #8B65D6; font-weight: 700; }
+    .accent { fill: #0891B2; font-weight: 700; }
     .line { stroke: #D0D7DE; }
     .body { font-size: 14px; }
     @media(prefers-color-scheme:dark) {
@@ -19,8 +19,8 @@
       .bar { fill: #21262D; }
       .main { fill: #E6EDF3; }
       .muted { fill: #9AA7B4; }
-      .prompt { fill: #6EE7B7; }
-      .accent { fill: #C4A7FF; }
+      .command { fill: #C4A7FF; }
+      .accent { fill: #67E8F9; }
       .line { stroke: #30363D; }
     }
   </style>
@@ -29,7 +29,7 @@
 <path class="bar" d="M19 1H981a18 18 0 0 1 18 18v48H1V19A18 18 0 0 1 19 1Z"/>
 <circle cx="31" cy="34" r="7" fill="#FF6B6B"/><circle cx="56" cy="34" r="7" fill="#F5C451"/><circle cx="81" cy="34" r="7" fill="#45B982"/>
 <text class="muted" x="500" y="39" text-anchor="middle" font-size="13">lakshit@github: ~/projects</text>
-<text class="prompt" x="52" y="112" font-size="13">$ ls ./projects --details</text>
+<text class="command" x="52" y="112" font-size="13">$ ls ./projects --details</text>
 
 <text class="accent" x="52" y="166" font-size="15">01. Sortify Desktop</text>
 <text class="main body" x="52" y="198">A Windows desktop application that scans file contents and helps identify files beyond their names.</text>
@@ -57,5 +57,5 @@
 <text class="main body" x="52" y="822">It also supports optional Gemini assistance to help with the content creation process.</text>
 
 <path class="line" d="M52 884H948"/>
-<text class="prompt" x="52" y="922" font-size="13">$ echo "built with curiosity"</text>
+<text class="command" x="52" y="922" font-size="13">$ echo "built with curiosity"</text>
 </svg>

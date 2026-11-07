@@ -1,51 +1,42 @@
-# Hi, I'm Lakshit Singh :)
+<p align="center">
+  <img src="./assets/terminal.svg" width="900" alt="Lakshit — CSE student, developer and curious mind" />
+</p>
 
-I'm a Computer Science student from India who loves building things and exploring what technology can do. I often find myself going down rabbit holes, experimenting with new ideas, or starting a project just because something caught my attention.
+<p align="center">
+  <a href="https://github.com/hmmlavi">GitHub</a> ·
+  <a href="https://lakshitss.vercel.app/">Portfolio</a> ·
+  <a href="https://github.com/hmmlavi?tab=repositories">Repositories</a>
+</p>
 
-I'm interested in a lot of things, especially **AI, desktop applications, developer tools, web development, and product development**. I don't really want to limit myself to one field. There's always something new to explore, something different to learn, or a better way to build something.
-
-What excites me most is taking an idea that exists only in my head and slowly turning it into something real. I enjoy every part of that process, from figuring out what to build and how it should work to writing the code and seeing everything come together.
-
-And it's not always about technology. I spend my time exploring **gaming, space, music, and psychology**, too. I like learning about things that make me curious, even when they have nothing to do with what I'm building.
-
-I have plenty of ideas I'd love to bring to life. Someday, I want to build products that people around the world genuinely enjoy using. Until then, you'll probably find me working on something new, experimenting with an idea, or getting curious about something completely different.
-
----
+<p align="center">
+  <img src="./assets/activity.svg" width="400" alt="Explore, build, improve" />
+</p>
 
 ## Selected work
 
-A few projects I've worked on:
+<p align="center">
+  <a href="https://github.com/hmmlavi/sortify-desktop" title="SORTIFY DESKTOP"><picture><img src="./assets/sortify-desktop.svg" width="440" alt="SORTIFY DESKTOP: Windows file organiser with smart naming, review and undo workflows." /></picture></a><a href="https://github.com/hmmlavi/FacilityFix" title="FACILITYFIX"><picture><img src="./assets/facilityfix.svg" width="440" alt="FACILITYFIX: Campus issue reporting and resolution management for students and coordinators." /></picture></a><br /><a href="https://github.com/hmmlavi/Pustakalaya-LMS" title="PUSTAKALAYA LMS"><picture><img src="./assets/pustakalaya-lms.svg" width="440" alt="PUSTAKALAYA LMS: Library management for books, members, circulation, reservations and reports." /></picture></a><a href="https://github.com/hmmlavi/Veylo" title="VEYLO"><picture><img src="./assets/veylo.svg" width="440" alt="VEYLO: A focused space for daily habits, routines and personal progress." /></picture></a><br /><a href="https://github.com/hmmlavi/SaBuddy" title="SABUDDY"><picture><img src="./assets/sabuddy.svg" width="440" alt="SABUDDY: Organise social content ideas, captions, scripts and publishing plans." /></picture></a>
+</p>
 
-- **[Sortify Desktop](https://github.com/hmmlavi/sortify-desktop)** — A Windows desktop app that helps organise files by scanning their contents and suggesting meaningful names. Includes review, file details, and undo workflows.
-- **[FacilityFix](https://github.com/hmmlavi/FacilityFix)** — A campus facility issue reporting system where students can report problems and coordinators can manage them through to resolution.
-- **[Pustakalaya LMS](https://github.com/hmmlavi/Pustakalaya-LMS)** — A library management system for books, copies, members, circulation, reservations, fines, and reports.
-- **[Veylo](https://github.com/hmmlavi/Veylo)** — A habit tracker that brings daily routines, planning, and progress into one simple personal space.
-- **[SaBuddy](https://github.com/hmmlavi/SaBuddy)** — An Android app for organising social media content, including ideas, captions, scripts, calendars, and saved content.
+## A little about me
 
-More projects are in progress. I'll add them here as they become worth sharing.
+I'm a Computer Science student from India who enjoys exploring different fields and turning ideas into useful software. I'm interested in **AI, desktop applications, developer tools, web development, and product development** — but I don't want to limit myself to one area.
 
----
+Outside technology, I'm usually exploring **gaming, space, music, or psychology**. I like learning how things work, why they work, and what I can make from that curiosity.
 
-## Tools I work with
+## Tools I use
 
-**Languages**  
-Python · C · C++ · JavaScript · TypeScript · HTML5 · CSS3 · SQL · Bash
+<p align="center">
+  <img src="./assets/stack-core.svg" width="400" alt="Core stack: Python, C, C++, TypeScript, Next.js, React, Tailwind CSS, Node.js and Express" />
+  <img src="./assets/stack-more.svg" width="400" alt="More tools: PostgreSQL, SQLite, MongoDB, Supabase, Firebase, Git, GitHub, Vercel and Figma" />
+</p>
 
-**Frameworks & UI**  
-React · Next.js · Tailwind CSS · Node.js · Express · Flask
+## What I'm exploring
 
-**AI & ML**  
-OpenAI API · LangChain · Claude · Gemini · Codex
-
-**Databases**  
-PostgreSQL · SQLite · MongoDB · Supabase · Firebase
-
-**Tools & Platforms**  
-Git · GitHub · GitHub Pages · Vercel · Figma · VS Code
-
-**Utilities**  
-npm · pip · PowerShell · Android Debug Bridge
+<p align="center">
+  <img src="./assets/learning.svg" width="400" alt="Currently exploring AI engineering, systems programming, data structures and system design" />
+</p>
 
 ---
 
-*Still exploring, still building, and always curious.*
+<p align="center"><sub>Still exploring. Still building. Always curious.</sub></p>

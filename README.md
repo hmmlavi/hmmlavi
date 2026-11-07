@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/projects.svg" width="100%" alt="Selected projects — Sortify Desktop, FacilityFix, Pustakalaya LMS, Veylo, and SaBuddy" />
+  <img src="./assets/projects.svg?v=2" width="100%" alt="Selected projects — Sortify Desktop, FacilityFix, Pustakalaya LMS, Veylo, and SaBuddy" />
 </p>
 
 <h2 align="center">Tools of Trade</h2>

@@ -37,16 +37,9 @@
 ## GitHub, Lately
 
 <p align="center">
-  <sub>A little signal from the things I build, learn, and contribute to.</sub>
+  <sub>A little signal from what I build, learn, and ship.</sub>
 </p>
 
-<table align="center" border="0" cellpadding="8" cellspacing="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="./profile/stats.svg" width="100%" alt="GitHub statistics" />
-    </td>
-    <td width="50%" align="center">
-      <img src="./profile/top-langs.svg" width="100%" alt="Most used programming languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./profile/dashboard.svg" width="100%" alt="Live developer dashboard with repository, star, fork, language and recent project statistics" />
+</p>

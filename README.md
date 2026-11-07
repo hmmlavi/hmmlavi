@@ -50,15 +50,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <sub>THE CONTRIBUTION TRAIL</sub>
-</p>
-
-<p align="center">
-  <img src="./profile/contribution-snake.svg" width="100%" alt="Animated contribution graph" />
-</p>
-
-<p align="center">
-  <sub>Numbers refresh daily · contribution trail follows the GitHub activity grid.</sub>
-</p>

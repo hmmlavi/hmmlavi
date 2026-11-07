@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="960" viewBox="0 0 1000 960" role="img" aria-labelledby="title desc">
+<title id="title">Selected Projects</title>
+<desc id="desc">A terminal-style overview of five software projects.</desc>
+<defs>
+  <linearGradient id="lightBg" x1="0" y1="0" x2="1000" y2="960"><stop stop-color="#F8FAFC"/><stop offset="1" stop-color="#E9EEF4"/></linearGradient>
+  <linearGradient id="darkBg" x1="0" y1="0" x2="1000" y2="960"><stop stop-color="#161B22"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+    .window { fill: url(#lightBg); stroke: #D0D7DE; }
+    .bar { fill: #E8EDF2; }
+    .main { fill: #17212B; }
+    .muted { fill: #657383; }
+    .prompt { fill: #16845B; font-weight: 700; }
+    .accent { fill: #8B65D6; font-weight: 700; }
+    .line { stroke: #D0D7DE; }
+    .body { font-size: 14px; }
+    @media(prefers-color-scheme:dark) {
+      .window { fill: url(#darkBg); stroke: #30363D; }
+      .bar { fill: #21262D; }
+      .main { fill: #E6EDF3; }
+      .muted { fill: #9AA7B4; }
+      .prompt { fill: #6EE7B7; }
+      .accent { fill: #C4A7FF; }
+      .line { stroke: #30363D; }
+    }
+  </style>
+</defs>
+<rect class="window" x="1" y="1" width="998" height="958" rx="18"/>
+<path class="bar" d="M19 1H981a18 18 0 0 1 18 18v48H1V19A18 18 0 0 1 19 1Z"/>
+<circle cx="31" cy="34" r="7" fill="#FF6B6B"/><circle cx="56" cy="34" r="7" fill="#F5C451"/><circle cx="81" cy="34" r="7" fill="#45B982"/>
+<text class="muted" x="500" y="39" text-anchor="middle" font-size="13">lakshit@github: ~/projects</text>
+<text class="prompt" x="52" y="112" font-size="13">$ ls ./projects --details</text>
+
+<text class="accent" x="52" y="166" font-size="15">01. Sortify Desktop</text>
+<text class="main body" x="52" y="198">A Windows desktop application that scans file contents and helps identify files beyond their names.</text>
+<text class="main body" x="52" y="222">It suggests meaningful names and organizes files with review and undo controls before changes are applied.</text>
+<text class="main body" x="52" y="246">Built to make large, messy folders easier to understand, rename, and manage with confidence.</text>
+
+<text class="accent" x="52" y="310" font-size="15">02. FacilityFix</text>
+<text class="main body" x="52" y="342">A campus facility issue reporting and management system designed to make maintenance easier to coordinate.</text>
+<text class="main body" x="52" y="366">Students can report problems while coordinators review submissions, track progress, and manage resolutions.</text>
+<text class="main body" x="52" y="390">It brings issue reporting and follow-up into one organized workflow for campus facilities.</text>
+
+<text class="accent" x="52" y="454" font-size="15">03. Pustakalaya LMS</text>
+<text class="main body" x="52" y="486">A local-first library management system built to support the everyday operations of a library.</text>
+<text class="main body" x="52" y="510">It manages books, copies, members, circulation, reservations, fines, and library records in one place.</text>
+<text class="main body" x="52" y="534">Built with Python and Flask, with a structured data model and a standalone desktop-friendly workflow.</text>
+
+<text class="accent" x="52" y="598" font-size="15">04. Veylo</text>
+<text class="main body" x="52" y="630">A habit-tracking application designed to help bring daily routines and personal goals into better focus.</text>
+<text class="main body" x="52" y="654">It gives users a place to organize habits, plan their routines, and keep track of progress over time.</text>
+<text class="main body" x="52" y="678">A simple, focused space for building consistency and making everyday progress easier to see.</text>
+
+<text class="accent" x="52" y="742" font-size="15">05. SaBuddy</text>
+<text class="main body" x="52" y="774">An Android social media content planner for organizing ideas and preparing content before it goes live.</text>
+<text class="main body" x="52" y="798">It brings captions, scripts, a content calendar, and saved ideas together in one planning workspace.</text>
+<text class="main body" x="52" y="822">It also supports optional Gemini assistance to help with the content creation process.</text>
+
+<path class="line" d="M52 884H948"/>
+<text class="prompt" x="52" y="922" font-size="13">$ echo "built with curiosity"</text>
+</svg>

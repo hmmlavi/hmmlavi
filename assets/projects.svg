@@ -29,27 +29,27 @@
 <text class="muted" x="500" y="39" text-anchor="middle" font-size="13">lakshit@github: ~/projects</text>
 <text class="command" x="52" y="112" font-size="13">$ ls ./projects --details</text>
 
-<text fill="#FB8B9B" font-weight="700" x="52" y="166" font-size="15">01. Sortify Desktop</text>
+<text fill="#E6DAFF" font-weight="700" x="52" y="166" font-size="15">01. Sortify Desktop</text>
 <text class="main body" x="52" y="198">A Windows desktop application that scans file contents and helps identify files beyond their names.</text>
 <text class="main body" x="52" y="222">It suggests meaningful names and organizes files with review and undo controls before changes are applied.</text>
 <text class="main body" x="52" y="246">Built to make large, messy folders easier to understand, rename, and manage with confidence.</text>
 
-<text fill="#FB8B9B" font-weight="700" x="52" y="310" font-size="15">02. FacilityFix</text>
+<text fill="#E6DAFF" font-weight="700" x="52" y="310" font-size="15">02. FacilityFix</text>
 <text class="main body" x="52" y="342">A campus facility issue reporting and management system designed to make maintenance easier to coordinate.</text>
 <text class="main body" x="52" y="366">Students can report problems while coordinators review submissions, track progress, and manage resolutions.</text>
 <text class="main body" x="52" y="390">It brings issue reporting and follow-up into one organized workflow for campus facilities.</text>
 
-<text fill="#FB8B9B" font-weight="700" x="52" y="454" font-size="15">03. Pustakalaya LMS</text>
+<text fill="#E6DAFF" font-weight="700" x="52" y="454" font-size="15">03. Pustakalaya LMS</text>
 <text class="main body" x="52" y="486">A local-first library management system built to support the everyday operations of a library.</text>
 <text class="main body" x="52" y="510">It manages books, copies, members, circulation, reservations, fines, and library records in one place.</text>
 <text class="main body" x="52" y="534">Built with Python and Flask, with a structured data model and a standalone desktop-friendly workflow.</text>
 
-<text fill="#FB8B9B" font-weight="700" x="52" y="598" font-size="15">04. Veylo</text>
+<text fill="#E6DAFF" font-weight="700" x="52" y="598" font-size="15">04. Veylo</text>
 <text class="main body" x="52" y="630">A habit-tracking application designed to help bring daily routines and personal goals into better focus.</text>
 <text class="main body" x="52" y="654">It gives users a place to organize habits, plan their routines, and keep track of progress over time.</text>
 <text class="main body" x="52" y="678">A simple, focused space for building consistency and making everyday progress easier to see.</text>
 
-<text fill="#FB8B9B" font-weight="700" x="52" y="742" font-size="15">05. SaBuddy</text>
+<text fill="#E6DAFF" font-weight="700" x="52" y="742" font-size="15">05. SaBuddy</text>
 <text class="main body" x="52" y="774">An Android social media content planner for organizing ideas and preparing content before it goes live.</text>
 <text class="main body" x="52" y="798">It brings captions, scripts, a content calendar, and saved ideas together in one planning workspace.</text>
 <text class="main body" x="52" y="822">It also supports optional Gemini assistance to help with the content creation process.</text>

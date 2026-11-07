@@ -6,6 +6,30 @@
   <img src="./assets/projects.svg?v=3" width="100%" alt="Selected projects — Sortify Desktop, FacilityFix, Pustakalaya LMS, Veylo, and SaBuddy" />
 </p>
 
+## Tools of Trade
+
 <p align="center">
-  <img src="./assets/tools.svg?v=1" width="100%" alt="Tools of Trade — programming languages, frameworks, AI tools, databases, and developer platforms with logos" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,bash" alt="Python, C, C++, JavaScript, TypeScript, HTML, CSS and Bash" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flask" alt="React, Next.js, Tailwind CSS, Node.js, Express and Flask" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/openai/412991" height="42" alt="OpenAI" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="42" alt="Anthropic Claude" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="42" alt="Google Gemini" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="42" alt="LangChain" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,supabase,firebase" alt="PostgreSQL, SQLite, MongoDB, Supabase and Firebase" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,npm,powershell" alt="Git, GitHub, Vercel, Figma, VS Code, npm and PowerShell" />
 </p>

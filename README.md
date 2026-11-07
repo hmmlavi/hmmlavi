@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="42" alt="ChatGPT" />
+  <img src="./assets/chatgpt.svg" height="42" alt="ChatGPT" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/anthropic/D97757" height="42" alt="Anthropic Claude" />
   &nbsp;

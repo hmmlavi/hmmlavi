@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1080" viewBox="0 0 1000 1080" role="img" aria-labelledby="title desc">
+<title id="title">Tools of Trade</title>
+<desc id="desc">A terminal-style overview of programming languages, frameworks, AI tools, databases, and developer platforms, with their logos.</desc>
+<defs>
+  <linearGradient id="lightBg" x1="0" y1="0" x2="1000" y2="1080"><stop stop-color="#F8FAFC"/><stop offset="1" stop-color="#E9EEF4"/></linearGradient>
+  <linearGradient id="darkBg" x1="0" y1="0" x2="1000" y2="1080"><stop stop-color="#161B22"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+    .window { fill: url(#lightBg); stroke: #D0D7DE; }
+    .bar { fill: #E8EDF2; }
+    .main { fill: #17212B; }
+    .muted { fill: #657383; }
+    .command { fill: #8B65D6; font-weight: 700; }
+    .label { fill: #B49AE8; font-weight: 700; font-size: 16px; }
+    .line { stroke: #D0D7DE; }
+    @media(prefers-color-scheme:dark) {
+      .window { fill: url(#darkBg); stroke: #30363D; }
+      .bar { fill: #21262D; }
+      .main { fill: #E6EDF3; }
+      .muted { fill: #9AA7B4; }
+      .command { fill: #C4A7FF; }
+      .label { fill: #E6DAFF; }
+      .line { stroke: #30363D; }
+    }
+  </style>
+</defs>
+<rect class="window" x="1" y="1" width="998" height="1078" rx="18"/>
+<path class="bar" d="M19 1H981a18 18 0 0 1 18 18v48H1V19A18 18 0 0 1 19 1Z"/>
+<circle cx="31" cy="34" r="7" fill="#FF6B6B"/><circle cx="56" cy="34" r="7" fill="#F5C451"/><circle cx="81" cy="34" r="7" fill="#45B982"/>
+<text class="muted" x="500" y="39" text-anchor="middle" font-size="13">lakshit@github: ~/toolkit</text>
+<text class="command" x="52" y="112" font-size="13">$ stack --list</text>
+<text class="main" x="52" y="158" font-size="25" font-weight="700">Tools of Trade</text>
+<text class="muted" x="52" y="184" font-size="13">A collection of technologies I use to build, experiment, and ship ideas.</text>
+<path class="line" d="M52 211H948"/>
+
+<text class="label" x="52" y="258">01 / LANGUAGES</text>
+<image href="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,bash" x="52" y="278" width="440" height="55" preserveAspectRatio="xMinYMid meet"/>
+<text class="muted" x="52" y="354" font-size="12">Python · C · C++ · JavaScript · TypeScript · HTML · CSS · Bash</text>
+<path class="line" d="M52 385H948"/>
+
+<text class="label" x="52" y="432">02 / FRAMEWORKS &amp; UI</text>
+<image href="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flask" x="52" y="452" width="340" height="55" preserveAspectRatio="xMinYMid meet"/>
+<text class="muted" x="52" y="528" font-size="12">React · Next.js · Tailwind CSS · Node.js · Express · Flask</text>
+<path class="line" d="M52 559H948"/>
+
+<text class="label" x="52" y="606">03 / AI &amp; DEVELOPMENT</text>
+<image href="https://skillicons.dev/icons?i=openai,claude,gemini" x="52" y="626" width="165" height="55" preserveAspectRatio="xMinYMid meet"/>
+<text class="main" x="250" y="650" font-size="14">LangChain</text>
+<text class="muted" x="250" y="674" font-size="12">Codex</text>
+<text class="muted" x="52" y="704" font-size="12">OpenAI · Claude · Gemini · LangChain · Codex</text>
+<path class="line" d="M52 735H948"/>
+
+<text class="label" x="52" y="782">04 / DATABASES</text>
+<image href="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,supabase,firebase" x="52" y="802" width="275" height="55" preserveAspectRatio="xMinYMid meet"/>
+<text class="muted" x="52" y="878" font-size="12">PostgreSQL · SQLite · MongoDB · Supabase · Firebase</text>
+<path class="line" d="M52 909H948"/>
+
+<text class="label" x="52" y="956">05 / TOOLS &amp; PLATFORMS</text>
+<image href="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,npm,powershell" x="52" y="976" width="385" height="55" preserveAspectRatio="xMinYMid meet"/>
+<text class="muted" x="52" y="1050" font-size="12">Git · GitHub · Vercel · Figma · VS Code · npm · PowerShell</text>
+</svg>

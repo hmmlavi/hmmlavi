@@ -25,7 +25,7 @@ def terminal_svg():
         )
         y += 76
 
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1120" viewBox="0 0 1000 1120" role="img" aria-labelledby="title desc">
+    return '''<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1120" viewBox="0 0 1000 1120" role="img" aria-labelledby="title desc">
 <title id="title">Lakshit Singh Saini — Developer profile</title>
 <desc id="desc">A terminal-style profile with about, selected projects, tools, interests and links.</desc>
 <defs>
@@ -80,14 +80,14 @@ def terminal_svg():
 
 <path class="line" d="M52 443H948"/>
 <text class="green prompt" x="52" y="478">$ ls ./selected-work</text>
-\${project_rows.join("\n")}
+\__PROJECT_ROWS__
 
 <path class="line" d="M52 968H948"/>
 <text class="green prompt" x="52" y="1001">$ cat toolkit.txt</text>
 <text class="main chip" x="52" y="1032">Python · C · C++ · TypeScript · React · Next.js · Tailwind · Node.js · Express</text>
 <text class="main chip" x="52" y="1057">PostgreSQL · SQLite · MongoDB · Supabase · Firebase · Git · GitHub · Vercel · Figma</text>
 <text class="purple chip" x="52" y="1082">Exploring: AI engineering · systems programming · DSA · system design</text>
-</svg>'''
+</svg>'''.replace("__PROJECT_ROWS__", "\n".join(project_rows))
 
 
 def build():

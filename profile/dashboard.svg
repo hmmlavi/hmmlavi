@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
 <defs>
   <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#C4B5FD" stop-opacity=".18"/>
@@ -9,35 +9,20 @@
     .muted { fill:#8B91A3; font-size:12px; letter-spacing:1.5px; }
     .heading { fill:#F3F1FA; font-size:22px; font-weight:650; }
     .number { fill:#F7F5FF; font-size:34px; font-weight:650; }
-    .metric { fill:#A6A9B8; font-size:11px; letter-spacing:1.2px; }
+    .metric { fill:#A6A9B8; font-size:10px; letter-spacing:1px; }
     .lang { fill:#DAD7E8; font-size:13px; }
     .pct { fill:#8B91A3; font-size:11px; }
-    .repo { fill:#E8E5F1; font-size:13px; }
-    .date { fill:#9297A8; font-size:12px; }
   </style>
 </defs>
-<rect x="1" y="1" width="1198" height="518" rx="18" fill="#070910" stroke="#292D3A"/>
+<rect x="1" y="1" width="1198" height="438" rx="18" fill="#070910" stroke="#292D3A"/>
 <rect x="2" y="2" width="1196" height="112" rx="17" fill="url(#glow)"/>
 <text x="64" y="48" class="muted">HMMLAVI  /  DEVELOPER OVERVIEW</text>
 <text x="64" y="82" class="heading">A little signal from what I build.</text>
 <circle cx="1110" cy="49" r="4" fill="#79C7C5"/>
 <text x="1125" y="53" text-anchor="end" class="muted">PUBLIC DATA</text>
-<g>
-  <rect x="64" y="130" width="338" height="112" rx="12" fill="#10131D" stroke="#292D3A"/>
-  <rect x="431" y="130" width="338" height="112" rx="12" fill="#10131D" stroke="#292D3A"/>
-  <rect x="798" y="130" width="338" height="112" rx="12" fill="#10131D" stroke="#292D3A"/>
-  <text x="88" y="166" class="metric">ORIGINAL REPOSITORIES</text>
-  <text x="88" y="215" class="number">9</text>
-  <text x="455" y="166" class="metric">STARS EARNED</text>
-  <text x="455" y="215" class="number">13</text>
-  <text x="822" y="166" class="metric">COMMUNITY FORKS</text>
-  <text x="822" y="215" class="number">0</text>
-</g>
-<text x="64" y="273" class="muted">LANGUAGE FINGERPRINT</text>
-<rect x="64.0" y="292" width="492.9" height="12" rx="6" fill="#C4B5FD"/><rect x="556.9" y="292" width="257.2" height="12" rx="6" fill="#A78BFA"/><rect x="814.1" y="292" width="173.9" height="12" rx="6" fill="#8B9CF6"/><rect x="988.0" y="292" width="83.5" height="12" rx="6" fill="#79C7C5"/><rect x="1071.5" y="292" width="64.5" height="12" rx="6" fill="#E6A5C8"/>
-<circle cx="68.0" cy="335" r="4" fill="#C4B5FD"/><text x="79.0" y="339" class="lang">Python</text><text x="79.0" y="360" class="pct">46.0%</text><circle cx="560.9" cy="335" r="4" fill="#A78BFA"/><text x="571.9" y="339" class="lang">TypeScript</text><text x="571.9" y="360" class="pct">24.0%</text><circle cx="818.1" cy="335" r="4" fill="#8B9CF6"/><text x="829.1" y="339" class="lang">Kotlin</text><text x="829.1" y="360" class="pct">16.2%</text><circle cx="992.0" cy="335" r="4" fill="#79C7C5"/><text x="1003.0" y="339" class="lang">HTML</text><text x="1003.0" y="360" class="pct">7.8%</text><circle cx="1075.5" cy="335" r="4" fill="#E6A5C8"/><text x="1086.5" y="339" class="lang">CSS</text><text x="1086.5" y="360" class="pct">6.0%</text>
-<line x1="64" y1="386" x2="1136" y2="386" stroke="#292D3A"/>
-<text x="64" y="409" class="muted">RECENTLY TOUCHED</text>
-<text x="64" y="421" class="repo">hmmlavi</text><text x="1136" y="421" text-anchor="end" class="date">today</text><text x="64" y="448" class="repo">portfolio-website</text><text x="1136" y="448" text-anchor="end" class="date">1d ago</text><text x="64" y="475" class="repo">Sarp</text><text x="1136" y="475" text-anchor="end" class="date">5d ago</text>
-<text x="1136" y="498" text-anchor="end" class="muted">AUTO-REFRESHED DAILY  ·  GITHUB API</text>
+<g><rect x="64" y="130" width="250" height="112" rx="12" fill="#10131D" stroke="#292D3A"/><text x="86" y="166" class="metric">PUBLIC REPOSITORIES</text><text x="86" y="215" class="number">11</text><rect x="338" y="130" width="250" height="112" rx="12" fill="#10131D" stroke="#292D3A"/><text x="360" y="166" class="metric">CONTRIBUTIONS · 1 YEAR</text><text x="360" y="215" class="number">2,934</text><rect x="612" y="130" width="250" height="112" rx="12" fill="#10131D" stroke="#292D3A"/><text x="634" y="166" class="metric">STARS EARNED</text><text x="634" y="215" class="number">15</text><rect x="886" y="130" width="250" height="112" rx="12" fill="#10131D" stroke="#292D3A"/><text x="908" y="166" class="metric">MERGED PULL REQUESTS</text><text x="908" y="215" class="number">42</text></g>
+<text x="64" y="294" class="muted">LANGUAGE FINGERPRINT</text>
+<rect x="64.0" y="326" width="651.4" height="12" rx="6" fill="#C4B5FD"/><rect x="715.4" y="326" width="182.3" height="12" rx="6" fill="#A78BFA"/><rect x="897.7" y="326" width="123.2" height="12" rx="6" fill="#8B9CF6"/><rect x="1021.0" y="326" width="61.4" height="12" rx="6" fill="#79C7C5"/><rect x="1082.4" y="326" width="53.6" height="12" rx="6" fill="#E6A5C8"/>
+<circle cx="68.0" cy="369" r="4" fill="#C4B5FD"/><text x="79.0" y="373" class="lang">Python</text><text x="79.0" y="394" class="pct">60.8%</text><circle cx="719.4" cy="369" r="4" fill="#A78BFA"/><text x="730.4" y="373" class="lang">TypeScript</text><text x="730.4" y="394" class="pct">17.0%</text><circle cx="901.7" cy="369" r="4" fill="#8B9CF6"/><text x="912.7" y="373" class="lang">Kotlin</text><text x="912.7" y="394" class="pct">11.5%</text><circle cx="1025.0" cy="369" r="4" fill="#79C7C5"/><text x="1036.0" y="373" class="lang">HTML</text><text x="1036.0" y="394" class="pct">5.7%</text><circle cx="1086.4" cy="369" r="4" fill="#E6A5C8"/><text x="1097.4" y="373" class="lang">JavaScript</text><text x="1097.4" y="394" class="pct">5.0%</text>
+<text x="1136" y="414" text-anchor="end" class="muted">AUTO-REFRESHED DAILY  ·  GITHUB API</text>
 </svg>

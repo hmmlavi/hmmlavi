@@ -111,7 +111,7 @@ README = """<p align="center">
 
 <h3 align="center">AI &amp; Machine Learning</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=openai,claude, Gemini" alt="OpenAI, Claude, Gemini" />
+  <img src="https://skillicons.dev/icons?i=openai,claude,gemini" alt="OpenAI, Claude, Gemini" />
 </p>
 <p align="center">LangChain · Codex · Gemini</p>
 
@@ -122,7 +122,7 @@ README = """<p align="center">
 
 <h3 align="center">Tools &amp; Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubpages,vercel,figma,vscode,npm,powershell" alt="Git, GitHub, GitHub Pages, Vercel, Figma, VS Code, npm, PowerShell" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,npm,powershell" alt="Git, GitHub, GitHub Pages, Vercel, Figma, VS Code, npm, PowerShell" />
 </p>
 
 <p align="center">Still exploring. Still building. Always curious.</p>

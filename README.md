@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/projects.svg?v=3" width="100%" alt="Selected projects — Sortify Desktop, FacilityFix, Pustakalaya LMS, Veylo, and SaBuddy" />
+  <img src="./assets/projects.svg?v=4" width="100%" alt="Selected projects — Sortify Desktop, FacilityFix, Pustakalaya LMS, Veylo, and SaBuddy" />
 </p>
 
 ## Tools of Trade
@@ -41,5 +41,5 @@
 </p>
 
 <p align="center">
-  <img src="./profile/dashboard.svg" width="100%" alt="Live developer dashboard with repository, star, fork, language and recent project statistics" />
+  <img src="./profile/dashboard.svg" width="100%" alt="Live developer dashboard with repository, contribution, star, merged pull request and language statistics" />
 </p>

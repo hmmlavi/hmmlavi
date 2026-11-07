@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1160" viewBox="0 0 1000 1160" role="img" aria-labelledby="title desc">
-<title id="title">Lakshit Singh Saini — Developer profile</title>
-<desc id="desc">A terminal-style profile with about, selected projects, tools, interests and links.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2860" viewBox="0 0 1000 2860" role="img" aria-labelledby="title desc">
+<title id="title">Hi, I'm Lakshit Singh — developer profile</title>
+<desc id="desc">A complete terminal-style profile containing introduction, projects, tools and interests.</desc>
 <defs>
-  <linearGradient id="lightBg" x1="0" y1="0" x2="1000" y2="1120"><stop stop-color="#F8FAFC"/><stop offset="1" stop-color="#E9EEF4"/></linearGradient>
-  <linearGradient id="darkBg" x1="0" y1="0" x2="1000" y2="1120"><stop stop-color="#161B22"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+  <linearGradient id="lightBg" x1="0" y1="0" x2="1000" y2="2860"><stop stop-color="#F8FAFC"/><stop offset="1" stop-color="#E9EEF4"/></linearGradient>
+  <linearGradient id="darkBg" x1="0" y1="0" x2="1000" y2="2860"><stop stop-color="#161B22"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
   <style>
     text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
     .window { fill: url(#lightBg); stroke: #D0D7DE; }
@@ -14,14 +14,15 @@
     .blue { fill: #2766A5; }
     .purple { fill: #8256B3; }
     .line { stroke: #D0D7DE; }
-    .title { font-size: 31px; font-weight: 700; letter-spacing: -.8px; }
-    .subtitle { font-size: 15px; }
+    .title { font-size: 34px; font-weight: 700; letter-spacing: -.8px; }
+    .subtitle { font-size: 16px; }
     .body { font-size: 15px; }
-    .project { font-size: 14px; font-weight: 700; }
-    .desc { font-size: 12px; }
-    .link { font-size: 11px; }
-    .chip { font-size: 13px; }
-    .prompt { font-size: 14px; font-weight: 700; }
+    .section { font-size: 17px; font-weight: 700; }
+    .project { font-size: 16px; font-weight: 700; }
+    .desc { font-size: 14px; }
+    .link { font-size: 12px; }
+    .chip { font-size: 14px; }
+    .prompt { font-size: 15px; font-weight: 700; }
     @media(prefers-color-scheme:dark) {
       .window { fill: url(#darkBg); stroke: #30363D; }
       .bar { fill: #21262D; }
@@ -34,36 +35,99 @@
     }
   </style>
 </defs>
-<rect class="window" x="1" y="1" width="998" height="1158" rx="18"/>
+<rect class="window" x="1" y="1" width="998" height="2858" rx="18"/>
 <path class="bar" d="M19 1H981a18 18 0 0 1 18 18v48H1V19A18 18 0 0 1 19 1Z"/>
 <circle cx="31" cy="34" r="7" fill="#FF6B6B"/><circle cx="56" cy="34" r="7" fill="#F5C451"/><circle cx="81" cy="34" r="7" fill="#45B982"/>
 <text class="muted" x="500" y="39" text-anchor="middle" font-size="13">lakshit@github: ~/profile</text>
 
-<text class="green prompt" x="52" y="111">$ whoami</text>
-<text class="main title" x="52" y="157">Lakshit Singh Saini</text>
-<text class="blue subtitle" x="52" y="188">Computer Science student · Developer · Curious mind</text>
-<text class="muted body" x="52" y="225">India — exploring ideas, building useful software, and learning how things work.</text>
+<text class="green prompt" x="52" y="112">$ whoami</text>
+<text class="main title" x="52" y="163">Hi, I'm Lakshit Singh :)</text>
+<text class="blue subtitle" x="52" y="198">Computer Science student · India · Builder · Curious mind</text>
+<path class="line" d="M52 229H948"/>
 
-<path class="line" d="M52 252H948"/>
-<text class="green prompt" x="52" y="286">$ cat about.txt</text>
-<text class="main body" x="52" y="321">I enjoy exploring different fields and turning ideas into useful software.</text>
-<text class="main body" x="52" y="348">Interested in AI, desktop applications, developer tools, web development,</text>
-<text class="main body" x="52" y="375">and product development — without limiting myself to one area.</text>
-<text class="muted body" x="52" y="414">Beyond tech: gaming, space, music, psychology, and whatever sparks curiosity.</text>
+<text class="green prompt" x="52" y="270">$ cat about.txt</text>
+<text class="main body" x="52" y="310">I'm a Computer Science student from India who loves building things and exploring what technology can do.</text>
+<text class="main body" x="52" y="338">I often find myself going down rabbit holes, experimenting with new ideas, or starting a project</text>
+<text class="main body" x="52" y="366">just because something caught my attention.</text>
 
-<path class="line" d="M52 443H948"/>
-<text class="green prompt" x="52" y="478">$ ls ./selected-work</text>
-<text class="project" x="76" y="570">SORTIFY DESKTOP</text><text class="muted desc" x="300" y="570">Windows file organiser with smart naming, review and undo workflows.</text><text class="link" x="76" y="595">github.com/hmmlavi/sortify-desktop</text>
-<text class="project" x="76" y="646">FACILITYFIX</text><text class="muted desc" x="300" y="646">Campus issue reporting and resolution management.</text><text class="link" x="76" y="671">github.com/hmmlavi/FacilityFix</text>
-<text class="project" x="76" y="722">PUSTAKALAYA LMS</text><text class="muted desc" x="300" y="722">Library management for books, members, circulation and reports.</text><text class="link" x="76" y="747">github.com/hmmlavi/Pustakalaya-LMS</text>
-<text class="project" x="76" y="798">VEYLO</text><text class="muted desc" x="300" y="798">A focused space for daily habits, routines and personal progress.</text><text class="link" x="76" y="823">github.com/hmmlavi/Veylo</text>
-<text class="project" x="76" y="874">SABUDDY</text><text class="muted desc" x="300" y="874">Organise social content ideas, captions, scripts and plans.</text><text class="link" x="76" y="899">github.com/hmmlavi/SaBuddy</text>
+<text class="main body" x="52" y="414">I'm interested in a lot of things, especially AI, desktop applications, developer tools, web development,</text>
+<text class="main body" x="52" y="442">and product development. I don't really want to limit myself to one field. There's always something new</text>
+<text class="main body" x="52" y="470">to explore, something different to learn, or a better way to build something.</text>
 
-<path class="line" d="M52 968H948"/>
-<text class="green prompt" x="52" y="1001">$ cat toolkit.txt</text>
-<text class="main chip" x="52" y="1032">Python · C · C++ · TypeScript · React · Next.js · Tailwind · Node.js · Express</text>
-<text class="main chip" x="52" y="1057">PostgreSQL · SQLite · MongoDB · Supabase · Firebase · Git · GitHub · Vercel · Figma</text>
-<text class="purple chip" x="52" y="1082">Exploring: AI engineering · systems programming · DSA · system design</text>
-<path class="line" d="M52 1100H948"/>
-<text class="muted link" x="52" y="1132">GITHUB  github.com/hmmlavi     ·     PORTFOLIO  lakshitss.vercel.app     ·     REPOSITORIES  /?tab=repositories</text>
+<text class="main body" x="52" y="518">What excites me most is taking an idea that exists only in my head and slowly turning it into something</text>
+<text class="main body" x="52" y="546">real. I enjoy every part of that process, from figuring out what to build and how it should work to</text>
+<text class="main body" x="52" y="574">writing the code and seeing everything come together.</text>
+
+<text class="main body" x="52" y="622">And it's not always about technology. I spend my time exploring gaming, space, music, and psychology,</text>
+<text class="main body" x="52" y="650">too. I like learning about things that make me curious, even when they have nothing to do with what</text>
+<text class="main body" x="52" y="678">I'm building.</text>
+
+<text class="main body" x="52" y="726">I have plenty of ideas I'd love to bring to life. Someday, I want to build products that people around</text>
+<text class="main body" x="52" y="754">the world genuinely enjoy using. Until then, you'll probably find me working on something new,</text>
+<text class="main body" x="52" y="782">experimenting with an idea, or getting curious about something completely different.</text>
+
+<path class="line" d="M52 824H948"/>
+<text class="green prompt" x="52" y="866">$ ls ./some-things-ive-built</text>
+
+<text class="blue project" x="76" y="920">01  SORTIFY DESKTOP</text>
+<text class="main desc" x="76" y="954">A Windows desktop app that helps organise files without the usual manual sorting. It scans file contents</text>
+<text class="main desc" x="76" y="980">and suggests meaningful names, so folders are easier to manage.</text>
+<text class="muted desc" x="76" y="1016">You can review suggestions before applying them, inspect file details, and undo changes when needed.</text>
+<a href="https://github.com/hmmlavi/sortify-desktop"><text class="green link" x="76" y="1048">github.com/hmmlavi/sortify-desktop ↗</text></a>
+
+<text class="blue project" x="76" y="1112">02  FACILITYFIX</text>
+<text class="main desc" x="76" y="1146">A campus facility issue reporting system where students can report problems instead of having to chase</text>
+<text class="main desc" x="76" y="1172">them manually.</text>
+<text class="muted desc" x="76" y="1208">It gives coordinators a place to review reports, manage their status, and keep track of issues through to resolution.</text>
+<a href="https://github.com/hmmlavi/FacilityFix"><text class="green link" x="76" y="1240">github.com/hmmlavi/FacilityFix ↗</text></a>
+
+<text class="blue project" x="76" y="1304">03  PUSTAKALAYA LMS</text>
+<text class="main desc" x="76" y="1338">A library management system designed to bring everyday library work into one place. It keeps track of</text>
+<text class="main desc" x="76" y="1364">books, copies, members, and circulation.</text>
+<text class="muted desc" x="76" y="1400">It also covers reservations, fines, and reports, with a local-first setup for managing library records.</text>
+<a href="https://github.com/hmmlavi/Pustakalaya-LMS"><text class="green link" x="76" y="1432">github.com/hmmlavi/Pustakalaya-LMS ↗</text></a>
+
+<text class="blue project" x="76" y="1496">04  VEYLO</text>
+<text class="main desc" x="76" y="1530">A habit tracker built to make daily routines easier to follow. It brings habits, planning, and progress</text>
+<text class="main desc" x="76" y="1556">into a simple personal space.</text>
+<text class="muted desc" x="76" y="1592">The focus is on keeping things straightforward and making it easy to see how you're doing over time.</text>
+<a href="https://github.com/hmmlavi/Veylo"><text class="green link" x="76" y="1624">github.com/hmmlavi/Veylo ↗</text></a>
+
+<text class="blue project" x="76" y="1688">05  SABUDDY</text>
+<text class="main desc" x="76" y="1722">An Android app for organising social media content, from early ideas to captions and scripts. It helps</text>
+<text class="main desc" x="76" y="1748">keep content planning in one workspace.</text>
+<text class="muted desc" x="76" y="1784">It includes calendar and saved-content workflows, with optional Gemini support for AI-assisted creation.</text>
+<a href="https://github.com/hmmlavi/SaBuddy"><text class="green link" x="76" y="1816">github.com/hmmlavi/SaBuddy ↗</text></a>
+
+<path class="line" d="M52 1860H948"/>
+<text class="green prompt" x="52" y="1902">$ echo "More Coming Soon"</text>
+<text class="main body" x="76" y="1942">There are always a few ideas in progress. I'll add them here as they turn into something worth sharing.</text>
+
+<path class="line" d="M52 1980H948"/>
+<text class="green prompt" x="52" y="2022">$ cat tools.txt</text>
+
+<text class="blue section" x="76" y="2070">Languages</text>
+<text class="main chip" x="76" y="2104">Python · C · C++ · JavaScript · TypeScript · HTML5 · CSS3 · SQL · Bash</text>
+
+<text class="blue section" x="76" y="2160">Frameworks &amp; UI</text>
+<text class="main chip" x="76" y="2194">React · Next.js · Tailwind CSS · Node.js · Express · Flask</text>
+
+<text class="blue section" x="76" y="2250">AI &amp; ML</text>
+<text class="main chip" x="76" y="2284">OpenAI API · LangChain · Claude · Gemini · Codex</text>
+
+<text class="blue section" x="76" y="2340">Databases</text>
+<text class="main chip" x="76" y="2374">PostgreSQL · SQLite · MongoDB · Supabase · Firebase</text>
+
+<text class="blue section" x="76" y="2430">Tools &amp; Platforms</text>
+<text class="main chip" x="76" y="2464">Git · GitHub · GitHub Pages · Vercel · Figma · VS Code</text>
+
+<text class="blue section" x="76" y="2520">Utilities</text>
+<text class="main chip" x="76" y="2554">npm · pip · PowerShell · Android Debug Bridge</text>
+
+<path class="line" d="M52 2600H948"/>
+<text class="green prompt" x="52" y="2642">$ links</text>
+<a href="https://github.com/hmmlavi"><text class="main chip" x="76" y="2684">GitHub  ·  github.com/hmmlavi</text></a>
+<a href="https://lakshitss.vercel.app/"><text class="main chip" x="76" y="2718">Portfolio  ·  lakshitss.vercel.app</text></a>
+<a href="https://github.com/hmmlavi?tab=repositories"><text class="main chip" x="76" y="2752">Repositories  ·  Browse all projects</text></a>
+<text class="purple chip" x="76" y="2808">Still exploring. Still building. Always curious.</text>
 </svg>

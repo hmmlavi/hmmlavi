@@ -6,7 +6,7 @@ import xml.sax.saxutils as xml
 from datetime import datetime, timezone
 
 USER = "hmmlavi"
-TOKEN = os.environ.get("GITHUB_TOKEN", "")
+TOKEN = os.environ.get("PROFILE_GITHUB_TOKEN", "")
 API = "https://api.github.com"
 
 def request_json(url, method="GET", payload=None):
@@ -55,6 +55,12 @@ def get_contributions():
         print(f"Contribution count unavailable: {error}")
         return 0
 
+if not TOKEN:
+    raise RuntimeError(
+        "PROFILE_GITHUB_TOKEN is required. Add a GitHub token with access to the private repositories "
+        "you want included as the PROFILE_GITHUB_TOKEN Actions secret."
+    )
+
 repos = []
 for page in range(1, 6):
     batch = api(f"/users/{USER}/repos?type=owner&sort=pushed&per_page=100&page={page}")
@@ -66,8 +72,11 @@ public_repos = [repo for repo in repos if not repo.get("private", False)]
 stars = sum(repo.get("stargazers_count", 0) for repo in public_repos)
 contributions = get_contributions()
 
+# GitHub's search endpoint includes private repositories only when the token
+# has access to them. Keep the author filter scoped to this profile identity.
 merged_query = urllib.parse.quote(f"author:{USER} is:pr is:merged")
-merged_prs = api(f"/search/issues?q={merged_query}&per_page=1").get("total_count", 0)
+merged_result = api(f"/search/issues?q={merged_query}&per_page=1")
+merged_prs = merged_result["total_count"]
 
 language_totals = {}
 for repo in public_repos[:100]:
